@@ -1,0 +1,13 @@
+pandas
+pyarrow
+numpy
+faker
+openai
+tabulate
+langchain
+langchain-openai
+gpt4all
+langchain_experimental
+pypdf
+sentence-transformers
+chromadb

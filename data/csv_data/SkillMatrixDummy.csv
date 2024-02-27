@@ -1,0 +1,189 @@
+Emp ID,Name,Job Title,Total Years of Experience,Status,Current project,Customer Name,Stream,Primary Skill,Primary Skill Level,Secondary Skill,Secondary Skill Level,Technology/ Skill Interest,Existing Certifications
+YML0002,Ananya,Lead Software Engineer,5,Project,Cen Website Redesign-Development Phase,Good Health,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0003,Rahul,Software Engineer,2,Project,Google,CT,Frontend,Reactjs,Proficient,UI/UX Design,Competent,Mobile Development,React Native Certification
+YML0004,Kavita,Senior Software Engineer,4,Project,GenAI POC,Nike,Machine learning,Python,SME,Data Visualization,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0005,Sandeep,Software Engineer,2.5,Project,AVP POC,Good Health,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0006,Divya,Software Engineer,3,Project,Google,CT,Frontend,Vuejs,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0007,Ankur,Senior Quality Assurance Engineer,4,Project,GenAI POC,Good Health,QA,Manual Testing,Advanced,API Automation,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0008,Shreya,Software Engineer,1.5,Project,Google,Nike,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0009,Vishal,Senior Software Engineer,6,Project,Cen Website Redesign-Development Phase,CT,Frontend,Reactjs,Advanced,Angular,Proficient,UI/UX Design,Frontend Masters Certification
+YML0010,Priya,Software Engineer,2,Project,AVP POC,Good Health,Machine learning,Python,Proficient,Data Analysis,Competent,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0011,Manish,Software Engineer,3.5,Project,Google,Nike,Backend,Python,Competent,Database Optimization,Proficient,DevOps Practices,Docker Certification
+YML0012,Akshay,Senior Architect,8,Project,GenAI POC,CT,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0013,Neha,Software Engineer,2,Project,AVP POC,Good Health,Frontend,Reactjs,Competent,Vuejs,Beginner,UI/UX Design,Frontend Masters Certification
+YML0014,Deepak,Engineering Manager,10,Project,Google,Nike,QA,API Testing,Advanced,Manual Testing,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0015,Anjali,Senior Software Engineer,5,Project,Cen Website Redesign-Development Phase,Good Health,Backend,Node.js,SME,API Development,Proficient,DevOps Practices,Docker Certification
+YML0016,Shivam,Software Engineer,3,Project,AVP POC,CT,Frontend,Angular,Proficient,Reactjs,Competent,UI/UX Design,Frontend Masters Certification
+YML0017,Pranav,Software Engineer,2,Project,Google,Nike,Backend,Python,Competent,Data Analysis,Proficient,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0018,Aditi,Senior Quality Assurance Engineer,5,Project,GenAI POC,Good Health,Machine learning,Python,SME,Data Visualization,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0019,Krishna,Software Engineer,2,Project,Cen Website Redesign-Development Phase,CT,Frontend,Reactjs,Beginner,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0020,Anisha,Senior Software Engineer,4,Project,AVP POC,Nike,Backend,Java,Proficient,API Development,Advanced,Cloud Computing,AWS Certified Developer
+YML0021,Rohit,Software Engineer,2,Project,Purple Cloud Development,XYZ Corp,Backend,Java,Proficient,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0022,Shivani,Senior Software Engineer,6,Project,Blue Horizon Initiative,ABC Inc,Frontend,Reactjs,SME,Vuejs,Advanced,UI/UX Design,Frontend Masters Certification
+YML0023,Siddharth,Lead Software Engineer,8,Project,Green Leaf Optimization,DEF Ltd,Backend,Python,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0024,Aditya,Software Engineer,3,Project,Red Tiger Integration,GHI Corp,Frontend,Angular,Competent,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0025,Kritika,Senior Quality Assurance Engineer,5,Project,Orange Sky Testing,JKL Corp,QA,Manual Testing,Advanced,API Automation,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0026,Prateek,Software Engineer,2.5,Project,Golden Gate Development,MNO Inc,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0027,Anjali,Senior Software Engineer,7,Project,Silver Star Initiative,PQR Ltd,Machine learning,Python,SME,Data Visualization,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0028,Rajesh,Software Engineer,3,Project,Pink Petal Integration,STU Corp,Frontend,Reactjs,Competent,Angular,Beginner,Mobile Development,React Native Certification
+YML0029,Shweta,Software Engineer,1.5,Project,Black Pearl Development,VWX Inc,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0030,Varun,Senior Architect,10,Project,White Castle Redesign,YZA Ltd,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0031,Ashley,Software Engineer,4,Project,Green Light Development,UVW Corp,Frontend,Vuejs,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0032,Sahil,Lead Software Engineer,9,Project,Blue Ocean Transformation,IJK Inc,Machine learning,Python,SME,Data Analysis,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0033,Anushka,Senior Software Engineer,5,Project,Redwood Integration,LMN Ltd,Backend,Node.js,Proficient,Database Optimization,Competent,DevOps Practices,Docker Certification
+YML0034,Vivek,Software Engineer,2.5,Project,Golden Gate Development,JKL Corp,Frontend,Reactjs,Proficient,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0035,Neha,Senior Quality Assurance Engineer,6,Project,Orange Sky Testing,GHI Corp,QA,Manual Testing,Advanced,API Testing,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0036,Arjun,Software Engineer,2,Project,Pink Petal Integration,DEF Ltd,Backend,Node.js,Beginner,API Development,Proficient,DevOps Practices,Docker Certification
+YML0037,Riya,Software Engineer,1.5,Project,Black Pearl Development,PQR Ltd,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0038,Dev,Senior Architect,11,Project,White Castle Redesign,MNO Inc,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0039,Ananya,Software Engineer,4,Project,Green Light Development,STU Corp,Frontend,Angular,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0040,Karan,Lead Software Engineer,8,Project,Blue Ocean Transformation,VWX Inc,Machine learning,Python,SME,Data Analysis,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0041,Aman,Senior Software Engineer,6,Project,Redwood Integration,XYZ Corp,Backend,Node.js,Proficient,Database Optimization,Competent,DevOps Practices,Docker Certification
+YML0042,Megha,Software Engineer,3,Project,Purple Cloud Development,ABC Inc,Frontend,Reactjs,Proficient,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0043,Siddhi,Senior Quality Assurance Engineer,7,Project,Orange Sky Testing,GHI Corp,QA,Manual Testing,Advanced,API Automation,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0044,Rahul,Software Engineer,2.5,Project,Golden Gate Development,DEF Ltd,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0045,Anjali,Software Engineer,2,Project,Pink Petal Integration,PQR Ltd,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0046,Vishal,Senior Architect,12,Project,White Castle Redesign,LMN Ltd,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0047,Kavya,Software Engineer,5,Project,Green Light Development,UVW Corp,Frontend,Vuejs,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0048,Saurabh,Lead Software Engineer,9,Project,Blue Ocean Transformation,IJK Inc,Machine learning,Python,SME,Data Analysis,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0049,Shreya,Senior Software Engineer,7,Project,Redwood Integration,GHI Corp,Backend,Node.js,Proficient,Database Optimization,Competent,DevOps Practices,Docker Certification
+YML0050,Ankit,Software Engineer,3,Project,Purple Cloud Development,JKL Corp,Frontend,Reactjs,Proficient,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0051,Priya,Senior Quality Assurance Engineer,8,Project,Orange Sky Testing,DEF Ltd,QA,Manual Testing,Advanced,API Testing,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0052,Deepak,Software Engineer,2.5,Project,Golden Gate Development,PQR Ltd,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0053,Ananya,Software Engineer,2,Project,Pink Petal Integration,STU Corp,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0054,Raj,Senior Architect,13,Project,White Castle Redesign,VWX Inc,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0055,Aditi,Software Engineer,6,Project,Green Light Development,XYZ Corp,Frontend,Vuejs,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0056,Ayush,Lead Software Engineer,10,Project,Blue Ocean Transformation,ABC Inc,Machine learning,Python,SME,Data Analysis,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0057,Divya,Senior Software Engineer,8,Project,Redwood Integration,GHI Corp,Backend,Node.js,Proficient,Database Optimization,Competent,DevOps Practices,Docker Certification
+YML0058,Shivam,Software Engineer,3,Project,Purple Cloud Development,DEF Ltd,Frontend,Reactjs,Proficient,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0059,Anjali,Senior Quality Assurance Engineer,9,Project,Orange Sky Testing,PQR Ltd,QA,Manual Testing,Advanced,API Automation,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0060,Ankur,Software Engineer,2.5,Project,Golden Gate Development,LMN Ltd,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0061,Sneha,Software Engineer,2,Project,Pink Petal Integration,UVW Corp,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0062,Vivek,Senior Architect,14,Project,White Castle Redesign,IJK Inc,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0063,Kriti,Software Engineer,7,Project,Green Light Development,JKL Corp,Frontend,Vuejs,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0064,Ajay,Lead Software Engineer,11,Project,Blue Ocean Transformation,STU Corp,Machine learning,Python,SME,Data Analysis,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0065,Arushi,Senior Software Engineer,9,Project,Redwood Integration,VWX Inc,Backend,Node.js,Proficient,Database Optimization,Competent,DevOps Practices,Docker Certification
+YML0066,Anshul,Software Engineer,3,Project,Purple Cloud Development,XYZ Corp,Frontend,Reactjs,Proficient,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0067,Ananya,Senior Quality Assurance Engineer,10,Project,Orange Sky Testing,ABC Inc,QA,Manual Testing,Advanced,API Testing,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0068,Varun,Software Engineer,3,Project,Golden Gate Development,GHI Corp,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0069,Kavya,Software Engineer,2,Project,Pink Petal Integration,DEF Ltd,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0070,Rohit,Senior Architect,15,Project,White Castle Redesign,PQR Ltd,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0071,Riya,Software Engineer,8,Project,Green Light Development,LMN Ltd,Frontend,Vuejs,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0072,Akshay,Lead Software Engineer,12,Project,Blue Ocean Transformation,UVW Corp,Machine learning,Python,SME,Data Analysis,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0073,Anjali,Senior Software Engineer,10,Project,Redwood Integration,JKL Corp,Backend,Node.js,Proficient,Database Optimization,Competent,DevOps Practices,Docker Certification
+YML0074,Sachin,Software Engineer,3,Project,Purple Cloud Development,STU Corp,Frontend,Reactjs,Proficient,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0075,Priyanka,Senior Quality Assurance Engineer,11,Project,Orange Sky Testing,IJK Inc,QA,Manual Testing,Advanced,API Automation,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0076,Rahul,Software Engineer,3,Project,Golden Gate Development,ABC Inc,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0077,Shreya,Software Engineer,2,Project,Pink Petal Integration,GHI Corp,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0078,Vishal,Senior Architect,16,Project,White Castle Redesign,DEF Ltd,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0079,Swati,Software Engineer,9,Project,Green Light Development,PQR Ltd,Frontend,Vuejs,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0080,Amit,Lead Software Engineer,13,Project,Blue Ocean Transformation,LMN Ltd,Machine learning,Python,SME,Data Analysis,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0081,Ananya,Senior Software Engineer,11,Project,Redwood Integration,UVW Corp,Backend,Node.js,Proficient,Database Optimization,Competent,DevOps Practices,Docker Certification
+YML0082,Prashant,Software Engineer,3,Project,Purple Cloud Development,JKL Corp,Frontend,Reactjs,Proficient,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0083,Kritika,Senior Quality Assurance Engineer,12,Project,Orange Sky Testing,STU Corp,QA,Manual Testing,Advanced,API Testing,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0084,Ankit,Software Engineer,3,Project,Golden Gate Development,IJK Inc,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0085,Neha,Software Engineer,2,Project,Pink Petal Integration,ABC Inc,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0086,Rajat,Senior Architect,17,Project,White Castle Redesign,GHI Corp,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0087,Akanksha,Software Engineer,10,Project,Green Light Development,DEF Ltd,Frontend,Vuejs,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0088,Rishabh,Lead Software Engineer,14,Project,Blue Ocean Transformation,PQR Ltd,Machine learning,Python,SME,Data Analysis,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0089,Simran,Senior Software Engineer,12,Project,Redwood Integration,UVW Corp,Backend,Node.js,Proficient,Database Optimization,Competent,DevOps Practices,Docker Certification
+YML0090,Aayush,Software Engineer,4,Project,Purple Cloud Development,LMN Ltd,Frontend,Reactjs,Proficient,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0091,Rahul,Senior Quality Assurance Engineer,13,Project,Orange Sky Testing,JKL Corp,QA,Manual Testing,Advanced,API Automation,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0092,Anjali,Software Engineer,3,Project,Golden Gate Development,STU Corp,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0093,Vikas,Software Engineer,2,Project,Pink Petal Integration,IJK Inc,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0094,Kavita,Senior Architect,18,Project,White Castle Redesign,ABC Inc,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0095,Sneha,Software Engineer,11,Project,Green Light Development,GHI Corp,Frontend,Vuejs,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0096,Amit,Lead Software Engineer,15,Project,Blue Ocean Transformation,DEF Ltd,Machine learning,Python,SME,Data Analysis,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0097,Anshul,Senior Software Engineer,13,Project,Redwood Integration,PQR Ltd,Backend,Node.js,Proficient,Database Optimization,Competent,DevOps Practices,Docker Certification
+YML0098,Swati,Software Engineer,4,Project,Purple Cloud Development,LMN Ltd,Frontend,Reactjs,Proficient,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0099,Ajay,Senior Quality Assurance Engineer,14,Project,Orange Sky Testing,UVW Corp,QA,Manual Testing,Advanced,API Testing,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0100,Ankita,Software Engineer,3,Project,Golden Gate Development,IJK Inc,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0101,Ankush,Software Engineer,2,Project,Pink Petal Integration,ABC Inc,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0102,Krishna,Senior Architect,19,Project,White Castle Redesign,GHI Corp,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0103,Riya,Software Engineer,12,Project,Green Light Development,DEF Ltd,Frontend,Vuejs,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0104,Varun,Lead Software Engineer,16,Project,Blue Ocean Transformation,PQR Ltd,Machine learning,Python,SME,Data Analysis,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0105,Anshul,Senior Software Engineer,14,Project,Redwood Integration,UVW Corp,Backend,Node.js,Proficient,Database Optimization,Competent,DevOps Practices,Docker Certification
+YML0106,Swati,Software Engineer,5,Project,Purple Cloud Development,LMN Ltd,Frontend,Reactjs,Proficient,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0107,Ajay,Senior Quality Assurance Engineer,15,Project,Orange Sky Testing,UVW Corp,QA,Manual Testing,Advanced,API Automation,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0108,Ankita,Software Engineer,3,Project,Golden Gate Development,IJK Inc,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0109,Ankush,Software Engineer,2,Project,Pink Petal Integration,ABC Inc,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0110,Krishna,Senior Architect,20,Project,White Castle Redesign,GHI Corp,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0111,Riya,Software Engineer,13,Project,Green Light Development,DEF Ltd,Frontend,Vuejs,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0112,Varun,Lead Software Engineer,17,Project,Blue Ocean Transformation,PQR Ltd,Machine learning,Python,SME,Data Analysis,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0113,Anshul,Senior Software Engineer,15,Project,Redwood Integration,UVW Corp,Backend,Node.js,Proficient,Database Optimization,Competent,DevOps Practices,Docker Certification
+YML0114,Swati,Software Engineer,6,Project,Purple Cloud Development,LMN Ltd,Frontend,Reactjs,Proficient,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0115,Ajay,Senior Quality Assurance Engineer,16,Project,Orange Sky Testing,UVW Corp,QA,Manual Testing,Advanced,API Testing,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0116,Ankita,Software Engineer,3,Project,Golden Gate Development,IJK Inc,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0117,Ankush,Software Engineer,2,Project,Pink Petal Integration,ABC Inc,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0118,Krishna,Senior Architect,21,Project,White Castle Redesign,GHI Corp,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0119,Riya,Software Engineer,14,Project,Green Light Development,DEF Ltd,Frontend,Vuejs,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0120,Varun,Lead Software Engineer,18,Project,Blue Ocean Transformation,PQR Ltd,Machine learning,Python,SME,Data Analysis,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0121,Anshul,Senior Software Engineer,16,Project,Redwood Integration,UVW Corp,Backend,Node.js,Proficient,Database Optimization,Competent,DevOps Practices,Docker Certification
+YML0122,Swati,Software Engineer,7,Project,Purple Cloud Development,LMN Ltd,Frontend,Reactjs,Proficient,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0123,Ajay,Senior Quality Assurance Engineer,17,Project,Orange Sky Testing,UVW Corp,QA,Manual Testing,Advanced,API Automation,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0124,Ankita,Software Engineer,4,Project,Golden Gate Development,IJK Inc,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0125,Ankush,Software Engineer,2,Project,Pink Petal Integration,ABC Inc,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0126,Krishna,Senior Architect,22,Project,White Castle Redesign,GHI Corp,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0127,Riya,Software Engineer,15,Project,Green Light Development,DEF Ltd,Frontend,Vuejs,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0128,Varun,Lead Software Engineer,19,Project,Blue Ocean Transformation,PQR Ltd,Machine learning,Python,SME,Data Analysis,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0129,Anshul,Senior Software Engineer,17,Project,Redwood Integration,UVW Corp,Backend,Node.js,Proficient,Database Optimization,Competent,DevOps Practices,Docker Certification
+YML0130,Swati,Software Engineer,8,Project,Purple Cloud Development,LMN Ltd,Frontend,Reactjs,Proficient,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0131,Ajay,Senior Quality Assurance Engineer,18,Project,Orange Sky Testing,UVW Corp,QA,Manual Testing,Advanced,API Testing,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0132,Ankita,Software Engineer,5,Project,Golden Gate Development,IJK Inc,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0133,Ankush,Software Engineer,2,Project,Pink Petal Integration,ABC Inc,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0134,Krishna,Senior Architect,23,Project,White Castle Redesign,GHI Corp,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0135,Riya,Software Engineer,16,Project,Green Light Development,DEF Ltd,Frontend,Vuejs,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0136,Varun,Lead Software Engineer,20,Project,Blue Ocean Transformation,PQR Ltd,Machine learning,Python,SME,Data Analysis,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0137,Anshul,Senior Software Engineer,18,Project,Redwood Integration,UVW Corp,Backend,Node.js,Proficient,Database Optimization,Competent,DevOps Practices,Docker Certification
+YML0138,Swati,Software Engineer,9,Project,Purple Cloud Development,LMN Ltd,Frontend,Reactjs,Proficient,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0139,Ajay,Senior Quality Assurance Engineer,19,Project,Orange Sky Testing,UVW Corp,QA,Manual Testing,Advanced,API Automation,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0140,Ankita,Software Engineer,6,Project,Golden Gate Development,IJK Inc,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0141,Ankush,Software Engineer,2,Project,Pink Petal Integration,ABC Inc,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0142,Krishna,Senior Architect,24,Project,White Castle Redesign,GHI Corp,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0143,Riya,Software Engineer,17,Project,Green Light Development,DEF Ltd,Frontend,Vuejs,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0144,Varun,Lead Software Engineer,21,Project,Blue Ocean Transformation,PQR Ltd,Machine learning,Python,SME,Data Analysis,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0145,Anshul,Senior Software Engineer,19,Project,Redwood Integration,UVW Corp,Backend,Node.js,Proficient,Database Optimization,Competent,DevOps Practices,Docker Certification
+YML0146,Swati,Software Engineer,10,Project,Purple Cloud Development,LMN Ltd,Frontend,Reactjs,Proficient,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0147,Ajay,Senior Quality Assurance Engineer,20,Project,Orange Sky Testing,UVW Corp,QA,Manual Testing,Advanced,API Testing,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0148,Ankita,Software Engineer,7,Project,Golden Gate Development,IJK Inc,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0149,Ankush,Software Engineer,2,Project,Pink Petal Integration,ABC Inc,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0150,Krishna,Senior Architect,25,Project,White Castle Redesign,GHI Corp,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0151,Riya,Software Engineer,18,Project,Green Light Development,DEF Ltd,Frontend,Vuejs,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0152,Varun,Lead Software Engineer,22,Project,Blue Ocean Transformation,PQR Ltd,Machine learning,Python,SME,Data Analysis,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0153,Anshul,Senior Software Engineer,20,Project,Redwood Integration,UVW Corp,Backend,Node.js,Proficient,Database Optimization,Competent,DevOps Practices,Docker Certification
+YML0154,Swati,Software Engineer,11,Project,Purple Cloud Development,LMN Ltd,Frontend,Reactjs,Proficient,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0155,Ajay,Senior Quality Assurance Engineer,21,Project,Orange Sky Testing,UVW Corp,QA,Manual Testing,Advanced,API Automation,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0156,Ankita,Software Engineer,8,Project,Golden Gate Development,IJK Inc,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0157,Ankush,Software Engineer,2,Project,Pink Petal Integration,ABC Inc,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0158,Krishna,Senior Architect,26,Project,White Castle Redesign,GHI Corp,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0159,Riya,Software Engineer,19,Project,Green Light Development,DEF Ltd,Frontend,Vuejs,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0160,Varun,Lead Software Engineer,23,Project,Blue Ocean Transformation,PQR Ltd,Machine learning,Python,SME,Data Analysis,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0161,Anshul,Senior Software Engineer,21,Project,Redwood Integration,UVW Corp,Backend,Node.js,Proficient,Database Optimization,Competent,DevOps Practices,Docker Certification
+YML0162,Swati,Software Engineer,12,Project,Purple Cloud Development,LMN Ltd,Frontend,Reactjs,Proficient,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0163,Ajay,Senior Quality Assurance Engineer,22,Project,Orange Sky Testing,UVW Corp,QA,Manual Testing,Advanced,API Testing,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0164,Ankita,Software Engineer,9,Project,Golden Gate Development,IJK Inc,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0165,Ankush,Software Engineer,2,Project,Pink Petal Integration,ABC Inc,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0166,Krishna,Senior Architect,27,Project,White Castle Redesign,GHI Corp,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0167,Riya,Software Engineer,20,Project,Green Light Development,DEF Ltd,Frontend,Vuejs,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0168,Varun,Lead Software Engineer,24,Project,Blue Ocean Transformation,PQR Ltd,Machine learning,Python,SME,Data Analysis,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0169,Anshul,Senior Software Engineer,22,Project,Redwood Integration,UVW Corp,Backend,Node.js,Proficient,Database Optimization,Competent,DevOps Practices,Docker Certification
+YML0170,Swati,Software Engineer,13,Project,Purple Cloud Development,LMN Ltd,Frontend,Reactjs,Proficient,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0171,Ajay,Senior Quality Assurance Engineer,23,Project,Orange Sky Testing,UVW Corp,QA,Manual Testing,Advanced,API Automation,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0172,Ankita,Software Engineer,10,Project,Golden Gate Development,IJK Inc,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0173,Ankush,Software Engineer,2,Project,Pink Petal Integration,ABC Inc,Backend,Java,Beginner,Database Management,Competent,Cloud Computing,AWS Certified Developer
+YML0174,Krishna,Senior Architect,28,Project,White Castle Redesign,GHI Corp,Backend,Java,SME,Cloud Architecture,Advanced,Cloud Computing,AWS Certified Solutions Architect
+YML0175,Riya,Software Engineer,21,Project,Green Light Development,DEF Ltd,Frontend,Vuejs,Advanced,Reactjs,Proficient,UI/UX Design,Frontend Masters Certification
+YML0176,Varun,Lead Software Engineer,25,Project,Blue Ocean Transformation,PQR Ltd,Machine learning,Python,SME,Data Analysis,Advanced,Machine Learning,Machine Learning A-Z™: Hands-On Python & R In Data Science
+YML0177,Anshul,Senior Software Engineer,23,Project,Redwood Integration,UVW Corp,Backend,Node.js,Proficient,Database Optimization,Competent,DevOps Practices,Docker Certification
+YML0178,Swati,Software Engineer,14,Project,Purple Cloud Development,LMN Ltd,Frontend,Reactjs,Proficient,Vuejs,Competent,UI/UX Design,Frontend Masters Certification
+YML0179,Ajay,Senior Quality Assurance Engineer,24,Project,Orange Sky Testing,UVW Corp,QA,Manual Testing,Advanced,API Testing,Proficient,Continuous Integration/Continuous Deployment,Jenkins Certification
+YML0180,Ankita,Software Engineer,11,Project,Golden Gate Development,IJK Inc,Backend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0181,Vinay,Senior Engineering Manager,11,Project,Sutter Development,IJK Inc,Frontend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0182,Shashanka,Engineering Manager,11,Project,Total Environment Development,IJK Inc,Frontend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0183,Pavan,Engineering Manager,11,Project,Sutter Development,IJK Inc,Frontend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0184,Einstein,Director of Engineering,11,Project,Sutter Development,IJK Inc,Frontend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0185,Shanti,Senior Director of Engineering,11,Project,Sutter Development,IJK Inc,Frontend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0186,Ram,Product Manager,11,Project,Sutter Development,IJK Inc,Frontend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0187,Shyam,Product Manager,11,Project,Sutter Development,IJK Inc,Frontend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0188,Raghu,Designer,11,Project,Sutter Development,IJK Inc,Frontend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification
+YML0189,Aarav,Senior Designer,11,Project,Sutter Development,IJK Inc,Frontend,Node.js,Proficient,API Development,Competent,DevOps Practices,Docker Certification

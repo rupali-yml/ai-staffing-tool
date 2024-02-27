@@ -1,0 +1,495 @@
+Emp ID,Name,Job Title,Function Head,HRBP,"Total Years of
+Experience",Team/Project,Stream,EMAIL ADDRESS,Primary Skill,Secondary Skill,"Primary Skill Level
+(SME, Proficient, 
+Competent, Advanced, Beginner, 
+Novice)","Secondary Skill Level
+(SME, Proficient, 
+Competent, Advanced, Beginner, 
+Novice)","Technology/ Skill Interest 
+(optional)",Existing Certifications,Comments, Name of Certification #1 ,Certification #1 Type,"Description about the certification, topics/core concepts covered etc.. #1 ",Certification #1 Issuing Authority (Name of the Organization/Institution),Year of Certification #1 ,Validity/Expiration of Certification #1 (If applicable), Name of Certification #2,Certification #2 Type,"Description about the certification, topics/core concepts covered etc.. #2",Year of Certification #2,Certification #2 Issuing Authority (Name of the Organization/Institution),Validity/Expiration of Certification #2 (If applicable),Other certifications(If any),Manager's Recommendation for Upskill
+YML0015,Jnanesh Nayak,Product Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,16.9,"AT&T,Credit One,Lecet",Product Management,jnanesh.nayak@ymedialabs.com,"Product Management [
+- Strategy + Roadmap
+- Product Definition
+- Execution
+- Product Analysis]","- Client/Stakeholder Management
+- Team Managment
+- Technical solutioning 
+- UI/UX Designing ",Proficient,Advanced,"- System Design/Architecting
+- ML 
+- UX Experiments [AB + Analytics]",,"Domain Expertise: Fintech, Automotive, Real estate, Ecom- Food/Gaming,  Education, iOT, Healthcare
+",,,,,,,,,,,,,,
+YML0027,Sanjib Chakraborty,Staff Engineer,Indumathi Venkataraman,Aparna K,13.6,Bench,iOS,sanjib.chakraborty@ymedialabs.com,"iOS, XCode, Swift, SwiftUI, Objective-C","Android, KMM, Java-Script",,,,,,,,,,,,,,,,,,,
+YML0042,Konda Rama Chandra Reddy,Engineering Manager,Indumathi Venkataraman,Aparna K,11.7,"Chopt,PWC",iOS,ramachandra.reddy@ymedialabs.com, iOS,"Android, Manual QA, Front end development",,,,Kotlin for Android: Beginner to Advanced,,Kotlin for Android: Beginner to Advanced,Technical,Kotlin for Android: Beginner to Advanced,Udemy,Feb 2022,,,,,,,,,
+YML0051,Sanath Kumar K,Senior engineering manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,13,WeTransfer,iOS,sanath.kumar@ymedialabs.com,"iOS,Android, People Management, Delivery Management, Leadership",Web,SME,Beginner,"Cloud technologies, Data Engineering",,,,,,,,,,,,,,,,
+YML0100,Mohammed Arshad KC,Senior engineering manager,Shanti Kuropati,Loganathan S,16,Hoag,iOS,arshadkc@ymedialabs.com,"iOS, Swift, Android, Kotlin, ReactNative, Flutter","NodeJS, Ruby on Rails, html, css, javascript",,,,Box Certified Professional Curriculum,,,,,,,,,,,,,,,
+YML0106,Swathi B L,Lead Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,9,FRB,iOS,swathi.bl@ymedialabs.com,"Swift, Javascript/JQuery, Hybrid Mobile App Dev, Team Management","Android, ReactNative",SME,Competent,"AWS Cloud, GenerativeAI",,,,,,,,,,,,,,,,"Flutter, next.js"
+YML0108,Nithin A Y,Lead Software Engineer,Mohammad Momshad Khan,Loganathan S,9,Amway,Android,nithin.ay@ymedialabs.com,Android,JavaScript,Proficient,Advanced Beginner,IoT,,,,,,,,,,,,,,,,
+YML0116,Nataraj A,Lead Software Engineer,Shanti Kuropati,Loganathan S,8.11,Chopt,iOS,nataraj.angadi@ymedialabs.com,"iOS Development
+
+Swift, OBJ-C",SwiftUI,Proficient,Beginner,ReactNative/Flutter,,,,,,,,,,,,,,,,
+YML0128,Manjunath S,Lead Quality Assurance Engineer,Mohammad Momshad Khan,Loganathan S,10.9,Yeti,QA,manjunath.somashekar@ymedialabs.com,"Manual Testing, UAT, Codeless Automation, Review test processes, Integration Testing, Mentoring freshers, Appium issues debugger","Java Selenium automation, API Testing",Proficient,Proficient,"Product Owner, CI/CD pipeline creation",Experitest Codeless automation,,Experitest Codeless automation,,,,,,,,,,,,,
+YML0134,Muktapuram Santosh Kumar,Senior Lead Software Engineer,Mohammad Momshad Khan,Loganathan S,11.9,Amway,iOS,santosh.kumar@ymedialabs.com,iOS,Devops,Proficient,Novice,IoT,,worked in past on IoT. Not in touch recently,,,,,,,,,,,,,,
+YML0143,Prianka Liz Kariat,Lead Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,10.3,Google,Machine Learning,prianka.kariat@ymedialabs.com,"TensorFlow, Keras, Computer Vision, Deep Learning, Time Series Forecasting, NLP, TensorFlow Lite, TF Serving, iOS, Swift, Objective C, Python, Bazel (Build System)","Google Cloud Platform ML - Vertex AI,
+TensorFlow Extended
+C++",SME,"GCP Vertex AI - Adanced
+TensorFlow Extended - Advanced
+C++  - Advanced","Production ML technologies, 
+on cloud platforms.
+MLOps",,,"TensorFlow Developer 
+Certificate",Technical Skill,ML/TensorFlow,Google/TensorFlow,2020,2023,,,,,,,,
+YML0147,Sampada Salimath,Lead Software Engineer,Mohammad Momshad Khan,Loganathan S,8,Amway,Android,sampada.salimath@ymedialabs.com,Android,BE,Proficient,Novice,Flutter ,,Interested in cross platoform technologies,,,,,,,,,,,,,,
+YML0162,M V Priyanka,Lead Software Engineer,Mohammad Momshad Khan,Loganathan S,8,Amway,iOS,priyanka.kumar@ymedialabs.com,iOS,React native,Proficient,Novice,Flutter,,"in future, want to explore more about Flutter and basic of backend",AWS Basics - For beginners and intermediates,Technical,Basics and the most important services on AWS,Udemy,2021,,React native,Technical,"Concepts of React native, Saga and Test case (Worked on one project in YML as well)",2020,,,,
+YML0163,Arun B Kulkarni,Lead Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,8,FRB,iOS,arun.kulkarni@ymedialabs.com,iOS,Team management,SME,Competent,Cloud technologies,,,,,,,,,,,,,,,,
+YML0167,Abhishek Maharajpet,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,8,FRB,Android,abhishek.maharajpet@ymedialabs.com,"Java/Kotlin, Hybrid Mobile App Dev, Javascript/JQuery","Flutter, Team Management",SME,Competant,"Backend (SprintBoot), GenerativeAI",,,,,,,,,,,,,,,,Flutter
+YML0178,Shweta Ravi Talapalli,Lead Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,7.8,Maternity leave,Backend,shweta.talapalli@ymedialabs.com,"Java, SpringBoot, Maven, API design, Swagger Doc, Database (MySQL, RDBMS), Junit","Design Pattern, Microservice, System Design, Git, Serverless, Docker, AWS",Proficient,Competent,,,,,,,,,,,,,,,,,
+YML0180,Aniruddha K.M,Lead Software Engineer,Shanti Kuropati,Loganathan S,8.90,Bench,Android,aniruddha.km@ymedialabs.com,"Android, compose, jetpack, Kotlin",Full stack development,Proficient,Beginner,"Data 
+Engineering",,,,,,,,,,,,,,,,
+YML0183,Vighnesh V Pai,Technical Project Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,12,"Chopt,Hoag",Project Management,vighnesh.pai@ymedialabs.com,Project Management (Waterfall/Agile),"QA, Automation, DevOps",Proficient,Competent,blockchain,,,SAFe 6 Advanced Scrum Master ,Non-Technical,"SAFe principles, SAFe practices, Agile leadership, Team anti-patterns, Relentless improvement and handling large scale team in the SAFe enviroment.","Scaled Agile, Inc",2023,14-Jan-2024,Professional Scrum Master I (PSM I),Non-Technical,"The Scrum framework, including its roles, events, artifacts, and practices, The Scrum values and principles, How to lead and coach Scrum teams, How to create and maintain a high-performing Scrum environment, How to resolve Scrum process impediments, How to apply Scrum to different types of projects and teams",2022,Scrum.org,Lifetime,,
+YML0186,Samyad R Jain,Lead Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,7.7,Bench,Android,samyad.jain@ymedialabs.com,"Java/Kotlin, Javascript/JQuery, Hybrid Mobile App Dev, Team Management","Flutter, Backend (Node JS)",SME,Competant,"Data Security, Backend (DevOps)",,,Java/J2EE,Technical,Java and J2EE,UttraInfo Solutions,2014,,Flutter & Dart - The Complete Guide,Technical,Flutter and Dart,2023,Udemy,,,Backend (Node JS)
+YML0192,Deepak Kk,Senior Lead Software Engineer,Indumathi Venkataraman,Aparna K,10.6,YML Internal - Component Library,Android,deepak.kk@ymedialabs.com,"Android development, Kotlin,Java",Kotlin multiplatform for mobile,SME,Beginner,"IOT, KMM, Backend technology",,,,,,,,,,,,,,,,
+YML0195,Shrishail Uttagi,Lead Software Engineer,Mohammad Momshad Khan,Loganathan S,8,AT&T,Frontend,shrishail.uttagi@ymedialabs.com,"Vue3, Nuxt3, React, Contentful","Gatsby, Angular, NodeJs, Strapi",Competent,Advanced Beginner,,,,,,,,,,,,,,,,,
+YML0198,Vivian Renoux Dsouza,Senior Technical Project Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,12.1,Bench,Project Management,vivian.dsouza@ymedialabs.com,"Project Management (Waterfall/Agile), Scrum Master",Delivery strategy and Staffing model,SME,Novice,,CSM,,PMI-ACP,Non-Technical,"The PMI-ACP is evidence of your real-world, hands-on experience and skill as part of an agile team. It spans many approaches to agile such as Scrum, Kanban, Lean, extreme programming (XP), and test-driven development (TDD), not limiting a practitioner to one agile approach.",PMI,2022,2025,SAFe Adv. Scrum Master,Non-Technical,Advanced SAFe Scrum Master is a certification provided by Scaled Agile Inc. It is a certification for the scrum master to provide relentless improvement and to handle the cross-functional and interdependent teams to facilitate excellent team results in scrum products.,2022,"Scaled Agile, Inc",2023,"PSM 1 - Professional Scrum Master™ I Certification | Scrum.org
+The Professional Scrum Master (PSM I) certification validates your knowledge of the Scrum framework, the Scrum Master accountabilities and how to apply Scrum. PSM I is recognized by the industry as a certification that demonstrates a fundamental level of Scrum mastery. Validity unlimited. ",
+YML0222,Aishwarya Laxmi U,Lead Software Engineer,Shanti Kuropati,Loganathan S,7.00,PWC,iOS,aishwaryalaxmi.u@ymedialabs.com,Swift,SwiftUI,Proficient,Beginner,SwiftUI and Flutter,,,,,,,,,,,,,,,,
+YML0223,Radhika Subray Nayak,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,7,Bench,iOS,radhika.nayak@ymedialabs.com,iOS Development - Swift,SwiftUI,Proficient,Beginner,JavaScript,,,,,,,,,,,,,,,,JavaScript
+YML0225,Praveena S,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,7,Credit One,Android,praveena.s@ymedialabs.com,Android (Java + Kotlin),"Team management, Flutter, Compose",SME,Advanced,Cloud technologies ,,,Your First Steps From Programmer to Software Architect,Technical Skill,Course on the guide lines for Software Architect Role and Responsibilites ,,2023,NA,,,,,,,,
+YML0229,Ajay Gowtham Km,Senior Quality Assurance Engineer,Shanti Kuropati,Loganathan S,6.11,PWC,QA,ajay.gowtham@ymedialabs.com,Manual Testing in Web and Mobile application,Automation(Mobile),SME,Advanced Beginner,SM/PM/TPM,CSM and ISTQB,,CSM - Certified Scrum Master,Technical,"CSM training gives hands-on skills that you can immediately apply in the real world and expand your career opportunities. Scrum framework and gain an understanding of team accountabilities, events, and artifacts as well as how to guide your team to apply Scrum.",Scrum Alliance,2021,2023,ISTQB - BCS,Technical,"Fundamentals of testing  
+Testing throughout the software development lifecycle  
+Static testing 
+Test techniques
+Test management
+Tool support for testing",2018,British Computer Society,No expiry ,CSM - Certified Scrum Master and ISTQB - BCS,
+YML0232,Bhushan A Kantanavar,Senior Quality Assurance Engineer,Shanti Kuropati,Loganathan S,6.9,Hoag,QA,bhushan.kantanavar@ymedialabs.com,"- Manual testing >  for Mobile and web 
+- API using Postman",Web & Mobile Automation,Proficient,Beginner,Mobile and API automation,ISTQB Foundation,,ISTQB Certified Tester Foundation Level (CTFL),Technical,"Provides a comprehensive understanding of the terminology and concepts used in the testing domain worldwide, making it relevant for all software delivery approaches and practices, including Waterfall, Agile, and Continuous Delivery.",UK Professional Development Academy LTD,2018,NA,,,,,,,,
+YML0243,Nidhin P Devan,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,8.7,Google,Machine Learning,nidhin.devan@ymedialabs.com,"Tensorflow, Keras, Computer Vision, Deep Learning, Time Series Forecasting, Python, Django","Google Cloud Platform ML - Vertex AI,
+TFDF, Pytorch",SME,"Proficient
+Pytorch, TFDF- Advanced",aws,,,TensorFlow Developer Certificate,Technical Skill,ML/ Tensorflow,Google/Tensorflow,2021,2024,,,,,,,,
+YML0247,Vinoth Pandian,Lead Software Development Engineer In Test,Mohammad Momshad Khan,Loganathan S,11.2,Amway,Automation,vinoth.pandian@ymedialabs.com,"Java
+Selenium
+RestAssured- API
+Appium
+BrowserStack","BDD
+HTML
+SQL
+Jenkins
+PostMan",,,,,On Leave,,,,,,,,,,,,,,
+YML0264,Ranjit Kumar Jena,Senior Quality Assurance Engineer,Mohammad Momshad Khan,Loganathan S,9.6,Amway,QA,ranjit.jena@ymedialabs.com,QA,Agile Ceremonies,Competent,Novice,,,Interested in Technical Project Management,,,,,,,,,,,,,,
+YML0265,Balamurugan Shanmugam,Senior Software Development Engineer in Test,Mohammad Momshad Khan,Loganathan S,9.4,Stagwell,Automation,balamurugan.s@ymedialabs.com,"Java, Appium, Selenium, Rest Assured, Serenity BDD, Cucumber","Jenkins, Charles Proxy, SQL ",Proficient,Competent,,,,,,,,,,,,,,,,,
+YML0267,Pavan Itagi,Engineering Manager,Shanti Kuropati,Loganathan S,12.1,L'Oreal,iOS,pavan.itagi@ymedialabs.com,"iOS (Objective-C, Swift)  - SME
+iOS SwiftUI - Beginner","Backend (NodeJS): Advanced
+Google App Script: Advanced
+Cloud AWS: Novice
+Python: Beginner",SME,Advanced,,,,,,,,,,,,,,,,,
+YML0270,Aster Savio Fernandes,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,5.11,Sutter Health,Frontend,aster.fernandes@ymedialabs.com,"VueJS, NuxtJS, ReactJS, , JavaScript, HTML, CSS","NextJs, NodeJS, ExpressJS, CMS(Strapi, Sanity)",Competent,Competent,,,,,,,,,,,,,,,,,
+YML0273,Diksha Kumari,Senior Software Engineer,Shanti Kuropati,loganathan S,5.11,Sutter Health,Android,diksha.kumari@ymedialabs.com,"Android, Kotlin, Java",Flutter,Proficient,Beginner,Flutter,,,,,,,,,,,,,,,,
+YML0275,Kinar R,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,5.11,Google,Machine Learning,kinar.ravishankar@ymedialabs.com,"TensorFlow, Keras, Computer Vision, NLP, Deep Learning, TensorFlow Lite, TensorFlow Serving, Bazel, pybind11, Python","Google Cloud Platform, TFX, Vertex AI",SME,Proficient,"Cloud TPUs, Model Optimization",,,,,,,,,,,,,,,,
+YML0284,Shrinidhi K,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,5.11,Credit One,iOS,shrinidhi.k@ymedialabs.com,Swift,SwiftUI,Proficient,Novice,"SwiftUI, Flutter/ React, Backend",,,,,,,,,,,,,,,,
+YML0286,Sneha Bhat,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,5.11,Bench,Android,sneha.bhat@ymedialabs.com,Android,"Cross platform development,Team management",SME,Advanced Beginner,"Web technologies, Cloud technologies, Team management, ML",,,,,,,,,,,,,,,,
+YML0292,Bishwajith B.N,Lead Software Engineer,Shanti Kuropati,Loganathan S,6.11,Chopt,Android,bishwajith.bn@ymedialabs.com,"Android, Kotlin, Java","Flutter, Dart",Proficient,Advanced,"Web, Backend",,,,,,,,,,,,,,,,
+YML0315,Akshatha V Raj,Senior Quality Assurance Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,6.1,Maternity leave,QA,akshatha.raj@ymedialabs.com,Manual Testing in web and mobile application,Manual Testing,SME,Advanced Beginner,,,,,,,,,,,,,,,,,
+YML0317,Bindushree,Senior Quality Assurance Engineer,Mohammad Momshad Khan,Loganathan S,4.11,AT&T,QA,bindushree@ymedialabs.com,"Manual Testing - Web Based, Mobile & Desktop Application API Testing","Mobile Automation- Appium
+Selenium (basics)",Proficient,Beginner,"Performance Testing
+Java & Selenium",,,,,,,,,,,,,,,,
+YML0318,Vijaya Laxmi Malayadri,Quality Assurance Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,10.7,Sutter Health,QA,vijaya.laxmi@ymedialabs.com,Manual Mobile & Web Testing,"Performance Testing, Codeless Automation Testing, Accessibility Testing",Proficient,Beginner,Mobile Automation,,,,,,,,,,,,,,,,
+YML0325,Rithesh P,Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,4.11,Credit One,Frontend,rithesh.p@ymedialabs.com,"Javascript, React",Node,Proficient,Advanced Beginner,Vue,,,,,,,,,,,,,,,,
+YML0333,Abu Jamal,Senior Quality Assurance Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,8.11,Credit One,QA,abu.jamal@ymedialabs.com,Manual testing (Mobile & Web),"Selenium and Appium with java, Jmeter, PostMan",Proficient,Competent,PEN testing,,,,,,,,,,,,,,,,
+YML0335,Nilesh Kumar Sinha,Lead Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,7.1,WeTransfer,Frontend,nilesh.sinha@ymedialabs.com,"HTML, CSS, Javascript,
+Typescript, React, Next js, Vuejs, Nuxt,JS,"," NodeJS, SQL, MongoDB, AWS, Docker,
+Kotlin Multi platform,Svelte",SME ,"Advanced - NodeJS,SQL
+Proficient - MongoDB, Svelte
+Novice - AWS, Docker, Kotlin Multi Platform","System Design
+Python
+",,,,,,,,,,,,,,,,
+YML0350,Anup Deepak Salunke,Senior Software Engineer,Mohammad Momshad Khan,Loganathan S,6.4,Sutter Health,DevOps,anup.salunke@ymedialabs.com,"AWS, Azure, Jenkins, GitHub, Docker, Terraform",Python,Competent,Advanced,,AWS Solutions Architect Associate,,AWS Solutions Architect Associate,Technical,AWS cloud services,Amazon Web Services,2021,2024,AMCAT Certified Business Analyst,Non-Technical,Business Analyst,2014,Aspiring Minds,,,
+YML0356,Anant Agarwal,Lead Software Engineer,Mohammad Momshad Khan,Aparna K,9.6,Stagwell,Backend,anant.agarwal@ymedialabs.com,"Java, SpringBoot, Maven, API design, Swagger Doc, Database (MySQL, RDBMS), Junit, Git, Docker, AWS","Design Pattern, Microservice, System Design, Serverless, MongoDB, PostgreSQL, Redis",Proficient,Competent,,,,,,,,,,,,,,,,,
+YML0362,S Nirupama,Lead Quality Assurance Engineer,Shanti Kuropati,Loganathan S,9.2,Maternity leave,QA,nirupama.s@ymedialabs.com,"Manual, API testing",Java & selenium,Proficient,Advanced Beginner,"Advanced Automation
+Performance testing",ISTQB,,ISTQB,,,,,,,,,,,,,
+YML0380,Gurudatta Ramachandra Bhat,Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,4,Bench,Backend,gurudatt.bhat@ymedialabs.com,"Microservices development (Java), Database management (SQL)",AWS,Proficient,Advanced Beginner,Node Js,,,,,,,,,,,,,,,,
+YML0381,Sujeeth Subramanya,Software Engineer,Mohammad Momshad Khan,Loganathan S,4,Lecet,Android,sujeeth.subramanya@ymedialabs.com,"Java, Kotlin",Compose,Competent,Beginner,,,,Android Jetpack Compose,Technical,Basics of Jetpack compose,udemy,2023,,,,,,,,,
+YML0382,Dileepa A S,Software Development Engineer in Test,Shanti Kuropati,Loganathan S,4,Hoag,Automation,dileepa.as@ymedialabs.com,"Java, Selenium, Appium, Jenkins Integration, MySQL, Mobile and Web Automation","Springboot, JavaScript, Python, HTML, Desktop Automation, API Automation",Proficient,Beginner,"Jmeter & RPA, IOT Automation, Java Security (jwt, oAuth, keyclock), React JS",,,,,,,,,,,,,,,,
+YML0384,Deeksha Nayak,Software Engineer,Shanti Kuropati,Loganathan S,4,Hoag,Frontend,deeksha.nayak@ymedialabs.com,"HTML, CSS, Javascript, ReactJS, PWA","NextJS, Accessibility, Jest, Enzyme, Typescript",Proficient,Advanced,,,,"""TypeScript: The Complete Developer's Guide"" by Stephen Grider",Technical,Covers all basics of typescript while building projects and integrating ts with frameworks like react and express,Udemy,2022,-,,,,,,,,
+YML0386,Kundan Suryansh,Software development Engineer In Test,Shanti Kuropati,Loganathan S,4,Hoag,Automation,kundan.suryansh@ymedialabs.com,Mobile and Web Automation,"Javascript,python,React,spring boot,IOT",Proficient,Beginner,"React JS, IOT Automation ",,,,,,,,,,,,,,,,
+YML0387,Karthik U K,Software Engineer,Shanti Kuropati,Loganathan S,4,L'Oreal,iOS,karthik.uk@ymedialabs.com,iOS (Swift),Flutter,SME,Advanced Beginner,,,,,,,,,,,,,,,,,
+YML0388,Nidhishree Narasim Nayak,Software Engineer,Mohammad Momshad Khan,Loganathan S,4,Lecet,iOS,nidhishree.nayak@ymedialabs.com,iOS- Swift,SwiftUI,Proficient,Competent,,,,Fundamentals of Digital Marketting,Non-Technical,"Analytics, Search Query, Customer traffic",Google Digital Garage,2023,,,,,,,,,
+YML0389,Nishmitha M Shetty,Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,4,Sutter Health,Frontend,nishmitha.shetty@ymedialabs.com,"JavaScript, ReactJS, NextJS, HTML, CSS","stencil, Angular, strapi, Gatsby",Proficient,"stencil - Proficient
+Angular- competent
+Strapi-beginner
+Gatsby-beginner",Next.js,,,,,,,,,,,,,,,,
+YML0390,Hitha S Rai,Software Engineer,Mohammad Momshad Khan,Loganathan S,4,AT&T,Frontend,hitha.rai@ymedialabs.com,"HTML,CSS,Javascript,ReactJS","Typescript, Jest & Enzyme, Accessibility, Vue.js",Proficient,Advanced/Beginner,Node.js,,,,,,,,,,,,,,,,
+YML0395,Prajwal M,Software Engineer,Indumathi Venkataraman,Aparna K,4,Bench,Frontend,prajwal.m@ymedialabs.com,"Javascript, React","stencil, Node js, CMS(Dato, strapi), Gatsby",Proficient,"stencil - proficient
+Node js, CMS - Competent
+Gatsby - Beginner",Next.js,,,,,,,,,,,,,,,,
+YML0396,Prakruth Nagaraj,Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,4,Credit One,iOS,prakruth.nagaraj@ymedialabs.com,Swift,SwiftUI/ Flutter,Proficient,Novice,"Flutter, Python",,,,,,,,,,,,,,,,
+YML0401,Santhosh Kumar N R,Quality Assurance Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,8.4,Sutter Health,QA,santhoshkumar.nr@ymedialabs.com,Manual Testing & Mobile Automation,"Performance Testing, Codeless Automation Testing, Accessibility Testing",Proficient,Advanced,Mobile Automation,,,,,,,,,,,,,,,,
+YML0403,Awantika Chand,Senior Software Engineer,Mohammad Momshad Khan,Loganathan S,9.1,Yeti,Frontend,awantika.chand@ymedialabs.com,"Wordpress, Magento, PHP, MySQL, Contentful","VueJS, NuxtJS, ReactJS, Angular, JavaScript, Typescript, HTML, Strapi, Spring boot",Proficient,Competent,"AI, ML, NodeJs",,,,,,,,,,,,,,,,
+YML0411,Saurabh Doorwar,Senior Project Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,16.4,FRB,Project Management,saurabh.doorwar@ymedialabs.com,"Project Management (Waterfall/Agile), Scrum Master",Test Management ,SME,Proficient,,CSM,,SAFe Advanced Scrum Master SASM Certification,Non-Technical,How Scrum Master works in SAFe ,"Scaled Agile, Inc.",2023,2025,CSM (Certified Scrum Master) ,Non-Technical,Agile knowledge and role of scrum master in agile project management ,2019,Scrum Alliance,2021,,
+YML0412,Manoj M,Lead Software Engineer,Shanti Kuropati,Loganathan S,8.1,Hoag,iOS,manoj.shetty@ymedialabs.com,"Swift ,iOS",React native,Proficient,,,,,,,,,,,,,,,,,,
+YML0413,Chethan R V,Senior Quality Assurance Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,5,FRB,QA,chethan.rv@ymedialabs.com,Manual QA(Mobile+Web),"Automation ( Appium Anad Selenium), Java basics, API Testing ( Postman & insomina ) , Web testing , Charles proxy and Performace testing (apache jmeter) 
+
+Team Management",SME,Competent,Cloud-AWS and Security testing,,,Software Testing,Technical,"Software testing course for Manual testing , SQL , JAVA , Selenium",Qspiders,2017,,,,,,,,,Appium mobile Automation
+YML0420,Karthik Manoj,Senior Software Engineer,Shanti Kuropati,Loganathan S,6.70,PWC,iOS,karthik.manoj@ymedialabs.com,iOS Development Swift,Unit Testing,Proficient,Proficient,,,,,,,,,,,,,,,,,
+YML0421,Likitha KN,Senior Quality Assurance Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,7.1,Sutter Health,QA,likitha.kn@ymedialabs.com,"Manual testing mobie,web and
+ web automation with
+ Java selenium",mobile automation,proficient,Beginner,Mobile automation,,,"Q Spiders , Testing certification",Technical,"Course done on Manual testing , SQL , Java , Selenium",Q Spiders,2016,,,,,,,,,
+YML0429,Jatin Kumar Singh,Senior Quality Assurance Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,5.3,Bench,QA,jatinkumar.singh@ymedialabs.com,"Manual Testing, API Testing, ADA Testing, Mobile App Testing, User Acceptance Testing, Integration Testing and SQL","Performance Testing, Data Base Testing",Proficient,Competent,,ISTQB,Technical,,,Foundation Level Certificate In Software Testing,ISTQB,2019,,Scrum Foundation Professional Certificate - SFPC,Technical,Scrum Foundation Professional Certificate,2022,CertiProf,2024,,
+YML0432,Sandhya Vijaykumar,Senior Quality Assurance Engineer,Shanti Kuropati,Loganathan S,9.40,Chopt,QA,sandhya.vijaykumar@ymedialabs.com,"API Testing, Manual Testing, Mobile app and Web testing, DB Testing.",Automation(Mobile),Proficient,Beginner,,,,Appium -Mobile Testing ,"Technical (Completed course but not having certificate, as I did not get that generated after course completion)",Mobile app automation testing on appium,Udemy,Feb 2022,,,,,,,,,
+YML0433,Aashita Singh,Senior Quality Assurance Engineer,Mohammad Momshad Khan,Loganathan S,8.2,Hoag,QA,aashita.singh@ymedialabs.com,"Manual Testing(Mobile & Web application),API testing,ADA Testing,Integration testing,Cross-Browser Testing,Agile methodology,
+Test preparation.","DB Testing
+Performance Testing
+Scrum(PSM 1)",Proficient,"Competent,Advanced Beginner",,"PSM-1
+",,Professional Scrum Master™ 1(PSM 1),Technical," Process Improvement , Stakeholder Management ,Requirements Analysis ,Team Management, Scrum, JIRA, Business Analysis,Agile Methodologies", Scrum.org,"August 20, 2019",PSM certification has lifelong validity,,,,,,,,
+YML0438,Vishal Singh,Lead Software Engineer,Mohammad Momshad Khan,Loganathan S,8.11,Bench,Android,vishal.singh@ymedialabs.com,Kotlin,"Java, Docker, SQL",Proficient,,"Node js backend development, AWS cloud certification",,,,,,,,,,,,,,,,
+YML0441,Gauthama,Senior Software Engineer,Mohammad Momshad Khan,Loganathan S,8,Bench,iOS,gautham.kharvi@ymedialabs.com,iOS,Xamarine,Proficient,Advanced Beginner,React Native,,Would be excited to learn more about cross platforms,,,,,,,,,,,,,,
+YML0446,Adhiti H Shetty,Senior Quality Assurance Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,7.6,FRB,QA,adhiti.shetty@ymedialabs.com,Manual QA,Automation,Proficient,Beginner,,Agile Crash Course: Agile Project Management; Agile Delivery from Udemy,Non-Technical,,,"This is a course that helps us Master the most important concepts and tools of Agile Development, Agile Project Delivery & Agile Project Management. It helps us understand the below * The meaning of user stories, daily stand-ups, retrospectives and kanban boards. * How to apply Agile in your job and projects. * The difference between Agile and traditional project delivery. * The benefits and advantages of Agile. * Why Agile is the preferred development methodology in the modern world. * About the history of Agile. * Why Agile isn't only for Developers. * Why Agile isn't only for IT projects. * How to use Agile to deliver quickly and often. * How to use Agile to learn from your mistakes.",Udemy,2020,,Appium -Mobile Testing (Android/IOS) from Scratch+Frameworks,Technical,"This course helps us in Learning About Mobile Automation (Android+ IOS) for beginners * It explains every concept in great details from Scratch so that any one can understand and learn Appium * Helps in designing and implementing Industry Standard frameworks using Appium  with TestNG Maven, Jenkins, GitHub, Apache Log4J2, Extent Reports * Detailed demonstration on end to end CI/CD implementation using Appium for both iOS and Android * Understand parallel execution on real Android and iOS devices using Cloud Infrastructure * It also has helped me with few tips and shortcuts that can be used",2023,Udemy,,"Name of Certification #3 : The ISTQB (International Software Testing Qualifications Board)
+Certification #3 Type: Technical
+Description about the certification, topics/core concepts covered etc.. #3: 
+The ISTQB certification has equipped me with valuable knowledge and skills in the field of software testing. Here are some key takeaways from my ISTQB certification:
+Foundation of Software Testing, Testing Techniques, Test Management, Test Process Improvement, Quality Risks and Defect Management
+Overall, the ISTQB certification has enriched my knowledge and skills in software testing, enabling me to apply industry best practices and contribute to the delivery of high-quality software products. It has provided me with a structured framework and common language for testing, enhancing my credibility as a software testing professional.
+Year of Certification #3: 2017
+Certification #3 Issuing Authority (Name of the Organization/Institution): Indian Testing Board (ITB)
+
+
+Name of Certification #4 : The Ultimate Product Owner Certification Training
+Certification #4 Type: Non Technical
+Description about the certification, topics/core concepts covered etc.. #4: 
+This course helps is to Learn Agile Product Ownership, Understand the Scrum Framework and Align their Scrum Knowledge with the latest changes. This course not only talks about the Product owner role sand responsibilities but also explains the whole Agile process and roles and responsibilities of each scrum team member. It also has so many use cases that we can work and try to come up with scenarios. It has some practice quiz  [Based On Scrum Guide (TM) v2020]. 
+Year of Certification #4: 2023
+Certification #4 Issuing Authority (Name of the Organization/Institution): Udemy
+
+Name of Certification #5 : Becoming a Product Manager : A Complete Guide
+Certification #5 Type: Non Technical
+Description about the certification, topics/core concepts covered etc.. #5: 
+certification provided me with comprehensive knowledge and skills required for excelling in the role of a Product Manager. Through this certification, I gained insights into various aspects of product management, including product strategy, market research, user experience, product development, and product launch. I learned how to effectively identify customer needs, conduct market analysis, and define product roadmaps aligned with business goals. The certification equipped me with tools and frameworks for conducting competitive analysis, user research, and usability testing to create user-centric products.
+Year of Certification #5: 2023
+Certification #5 Issuing Authority (Name of the Organization/Institution): LinkedIn",
+YML0447,Pushpalatha Sampatkumar Satyamurti,Quality Assurance Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,8.5,FRB,QA,pushpalatha.s@ymedialabs.com,Manual QA(Mobile+Web),"Automation(Basics of Selenium and appium, Java basics), charles proxy",SME,Beginner,"Python Automation, Security Testing",,,,,,,,,,,,,,,,Appium mobile Automation
+YML0448,Kanchanapalli Ratna Poojitha Bhatt,Senior Quality Assurance Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,8.4,Credit One,QA,poojitha.bhatt@ymedialabs.com,Manual Mobile Testing & Web testing,Selenium with java,Competent,Beginner,Performance with JMeter,,,,,,,,,,,,,,,,
+YML0450,Harshitha,Software Engineer,Mohammad Momshad Khan,Loganathan S,2.9,Bench,QA,harshitha.nayak@ymedialabs.com,QA,Web dev and android programming in college,Competent,Advanced Beginner,iOS development,,"Done 4-5 tasks with Sanjib Chakraborty for iOS.
+Has a good goal of moving to iOS full time by January",The Complete React Native + Hooks Course,Technical,"UI Components, List, state Management, Screen Layout, Building Restaurent app, Data API Sync, In App Authentication",Udemy,2023,,iOS & Swift - The Complete iOS App Development Bootcamp,Technical,"Xcode Storyboard, Swift Programming, Auto Layout And responsive UI,App design part and code structuring,networking, json parsing, firebase",2023,udemy,,,
+YML0451,Ramya R Nayak,Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,2.9,WeTransfer,Frontend,ramya.nayak@ymedialabs.com,"Typescript, React, Angular, HTML, CSS","JavaScript, NextJs, NodeJS, Ionic",Proficient,Competent,,,,,,,,,,,,,,,,,
+YML0453,Aswathi Sunilkumar,Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,2.9,WeTransfer,Frontend,aswathi.s@ymedialabs.com,"Typescript, Reactjs, Vuejs, HTML, CSS, Nuxt, Next js, Git","Sveltejs, Lit.dev",Proficient,Competent,"Python, LLMs",React Js,Technical,,,"Covered basic react concepts like react DOM, router, hooks, state, props, jsx, deployment",Udemy,2020,,VueJS,Technical,"Covered basic and advance vue concepts like v-directives, event handling, form binding etc",2022,Udemy,,,
+YML0454,Deeksha Kundabarandady,Software Engineer,Shanti Kuropati,Loganathan S,2.9,L'Oreal,Android,deeksha.k@ymedialabs.com,"Android( Java, Kotlin, Room, Dagger, RxJava, MVP architecture)","Jetpack Compose, HTML, Python.",SME,,"Machine learning, Network Security",,,,,,,,,,,,,,,,
+YML0455,Annapoorna Kamath,Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,2.9,Credit One,Android,annapoorna.k@ymedialabs.com,Android,Kotlin,Advanced Beginner,Novice,Flutter,,,Learning SOLID programming principles,Technical,SOLID programming and design principles,LinkedIn,2023,,,,,,,,,
+YML0456,Stafny Velitia Karkada,Software Engineer,Shanti Kuropati,Loganathan S,2.90,Bench,Frontend,stafny.vk@ymedialabs.com,"Javascript,Reactjs,CSS,Typescript,Redux,Git","Nextjs,Angular,React Native",Proficient,Beginner,Python,,,,,,,,,,,,,,,,
+YML0460,Vinutha H L,Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,2.9,Bench,Android,vinutha.hl@ymedialabs.com,Android,Jetpack Compose,SME,Beginner,"Cyber security, Web development",,,Android MVVM Architecture,Technical,"MVVM, State Problem, View Model , Live data, Sharing data between fragments, Advanced Live data,",Udemy,2023,Not Applicable,,,,,,,,
+YML0461,Rohith M,Software Engineer,Mohammad Momshad Khan,Loganathan S,2.9,Bench,QA,rohith.m@ymedialabs.com,"Java Selenium,Appium,Browserstack",katalon studio,competent,competent,,,,Appium -Mobile Automation Testing from Scratch+ Frameworks,Technical,"Learn to automate any (Native,Hybrid,Web) Apps in Android/IOS using Appium.Design Appium Framework with open source technologies like Learn Maven, TestNG, Jenkins, JUnit, Extent Reports",Udemy,2020,,Rest API Testing (Automation) from Scratch-Rest Assured Java,Technical,In-depth understanding of REST API Automation using RestAssured,2023,Udemy,,,
+YML0464,Yashaswini N,Software Engineer,Mohammad Momshad Khan,Loganathan S,2.9,AT&T,QA,yashaswini.n@ymedialabs.com,"Appium, Selenium, Groovy basics,java,Mobile automtion","Api Automation,web automation",Proficient,Advanced Beginner,Diffrent Automation frameworks,,,Selenium WebDriver with Java -Basics to Advanced+Frameworks,Technical,Automate web browser using selenium  ,API automation ,2022,,API Atomation ,Technical,Automate API using soap SOAP and groovy ,2022,Udemy,,,
+YML0465,Pramuk U,Software Engineer,Mohammad Momshad Khan,Loganathan S,2.9,Bench,iOS,pramuk.umesh@ymedialabs.com,iOS - Swift,SwiftUI,Competent,Competent,Advanced swiftUI,swiftUI Masterclass 2022,,swiftUI Masterclass 2022,,,,,,,,,,,,,
+YML0474,Mahantesh Hosamani,Quality Assurance Engineer,Mohammad Momshad Khan,Loganathan S,5.11,Bench,QA,mahanth.hosamani@ymedialabs.com,Manual QA,Automation. Appium with BDD,Proficient,Competent,Selenium web automation,,,,,,,,,,,,,,,,
+YML0476,Y P Abhishek S Gowda,Senior Quality Assurance Engineer,Mohammad Momshad Khan,Loganathan S,5.6,Stagwell,QA,abhishek.gowda@ymedialabs.com,"ReactJs,NextJs,JavaScript, HTML, CSS,SCSS, GraphQL,Redux,Bootstrap,Webpack,VueJs","NuxtJS,TypeScript, Git, Gulp, JQuery, Angular, MongoDB, Docker, AWS",Proficient,Competent,"System Design,Cybersecurity",,,,,,,,,,,,,,,,
+YML0478,Sreekanth Reddy G B,Senior Software Engineer,Mohammad Momshad Khan,Loganathan S,8.1,Bench,iOS,sreekanth.reddy@ymedialabs.com,"Swift, Objective C","Android, React Native",Proficient,"Android - Beginner
+React Native - Beginner","Flutter,
+Cloud",,,,,,,,,,,,,,,,
+YML0481,Pratibha Abhay Patil,Senior Quality Assurance Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,9.9,Maternity leave,QA,pratibha.nagaraj@ymedialabs.com,Manual Mobile & Web Testing,Web & Mobile Automation,Proficient,Beginner,Mobile Automation,,,ISTQB Foundation Level,Online Exam,Testing Standards,,,,,,,,,,,
+YML0482,Yerranagula Venkata Naimisha,Senior Quality Assurance Engineer,Shanti Kuropati,Loganathan S,7.1,Hoag,QA,naimisha.yv@ymedialabs.com,Manual QA ,Automation,Proficient,Competent,Selenium / Appium,,,,,,,,,,,,,,,,
+YML0485,Sachin Hegde,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,8,Sutter Health,Frontend,sachin.hegde@ymedialabs.com,"Angular, Vue, NuxtJs, React, NextJs","Node, Express, Postgress",Competent,Advanced Beginner,"Fullstack, System design",,,Certificate of Course Completion by Academind,Technical,Angular course completion certification,Udemy,2017,NA,Certificate of Course Completion by Academind,Technical,NodeJS - The Complete Guide,2023,Udemy,NA,"React - Udemy Course completion by Academind
+Nuxtjs & VueJs - Udemy Course completion by Academind
+Ionic - Udemy Course completion by Academind",
+YML0486,Nidhi Jain,Senior Lead Quality Assurance Engineer,Mohammad Momshad Khan,Loganathan S,16.1,Amway,QA,nidhi.jain@ymedialabs.com,Manual QA, Exposure to Automation tools like - Selenium,SME,,Selenium mobile automation,,,,,,,,,,,,,,,,
+YML0487,V Anantharuban,Senior Software Engineer,Shanti Kuropati,Loganathan S,7.8,Bench,Backend,anantharuban.v@ymedialabs.com,"Microservices development (Java), Database management (SQL, MongoDB, Cosmos DB)","Containerization (Docker, Kubernetes), Continous Integeration",Proficient,Beginner,Network Security,,,,,,,,,,,,,,,,
+YML0490,Shashikala B S,Senior Quality Assurance Engineer,Shanti Kuropati,Loganathan S,9.6,PWC,QA,shashikala.bs@ymedialabs.com,Manual QA,"ETL Testing, 
+Database Testing 
+API Testing (Swagger, Postman)
+Web Automation (Selenium)
+Mobile Automation (Appium)",SME,"ETL Testing,  - Proficient
+Database Testing - Proficient
+API Testing (Swagger, Postman) - Proficient
+Web Automation (Selenium) - Beginner
+Mobile Automation (Appium) - Beginner","Appium - Mobile Automation
+Appil tools - Visual testing",,,"Applitools - A Visual Testing AI Tool - Java,Selenium,Appium",Technical,"In this course you will learn, the powerful Applitools Eyes SDK, the integration with Selenium and Appium tests",Udemy,Dec 2022,,,,,,,,,
+YML0497,Shivani Rawat,Associate Product Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,2.11,Bench,Project Management,shivani.rawat@ymedialabs.com,"Product Development, Market Research, Data Analytics, Delivery","Presales, Stakeholders Management, Analytics",Intermediate,Competent,"AI/ML, Pitch and Definition, Product Strategy",Google Analytics,"Domain Expertise: Ecommerce, Creator Economy",Google Analytics,,,,,,,,,,,,,
+YML0504,Anushree Nayak,Senior Quality Assurance Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,7,Bench,QA,anushree.nayak@ymedialabs.com,Manual Testing in web and mobile application,Automation,SME,Beginner,"Automation Appium,Selenium,Postman",,,Testing certification,Technical,Manual and mobile application testing,Qspider,2015,Not Applicable,,,,,,,,
+YML0506,Ananthakrishna,Senior Software Engineer,Shanti Kuropati,Loganathan S,8.30,YML Internal - Component Library,Android,anantha.krishna@ymedialabs.com,"Android,Kotlin,Java","iOS,Swift,CPP",Proficient,Competent,"HCI, Networks, ML/Ai",,,,,,,,,,,,,,,,
+YML0508,Gulshan Kumar,Senior Software Engineer,Shanti Kuropati,Loganathan S,6.9,Hoag,Android,gulshan.kumar@ymedialabs.com,"Android, Kotlin, Java","iOS, PHP, HTML, CSS",Proficient,Advanced,"Java Backend, JS, ML/AI, AR, iOS, Flutter.",,"Open for learning in groups, discussing anything about technolgies.",,,,,,,,,,,,,,
+YML0513,Banti Banerjee,Technical Project Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,11.4,WeTransfer,Project Management,banti.banerjee@ymedialabs.com,"Project management, agile, scrum, kanban, agile coaching/ mentoring, metrics.","Effective communication skills, effective presentation skills , stakeholder management, conflict management, people management",,,,,Currently on Maternity until January 2023,Leading SAFE Agilist 6.0 ,Technical,"scaled agile, SAFE framework, PI planning, SAFE core values, SAFE Principles",Scaled Agile,2023,2025,CSM,Technical,"Scrum fundamentals, agile , principles, core values ",2015,Scrum Alliance,2025,,
+YML0514,Nitturu Manohar Reddy,Quality Assurance Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,8.1,Yeti,QA,manohar.reddy@ymedialabs.com,Manual QA,Automation,SME,Advanced Beginner,"Appium, Selenium",,,,,,,,,,,,,,,,
+YML0517,Namuru Gowtham,Senior Software Engineer,Shanti Kuropati,Loganathan S,7.2,Bench,iOS,gowtham.namuri@ymedialabs.com,"iOS, Swift, XCode",Javascript,Proficient,Baginner,Frontend + Backend,,,,,,,,,,,,,,,,
+YML0519,Deepak Tiwari,Senior Software Development Engineer in Test,Mohammad Momshad Khan,Loganathan S,10.2,Bench,Automation,deepak.tiwari@ymedialabs.com,"Automation testing for web,mobile and apis 
+ with framework developement 
+from the scratch",Manual Testing (UI+Backend) + development(angular+node+spring boot),SME,Competent,"Appium,Selenium,Java, Testng
+Postman,API Testing ,framework development, Angular Js, Node JS , Spring boot,mongodb,javascript,Typescript",,,,,,,,,,,,,,,,
+YML0520,Shivanshu Agnihotri,Technical Project Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,14.2,"Google,PWC,Level",Project Management,shivanshu.agnihotri@ymedialabs.com,Project Management (Waterfall/Agile),"AI & ML, AWS",SME,Advanced Beginner,"AI & ML, AWS","PMP, CSM, SAFe Agilist",,"PMP, CSM, SAFe Agilist",,,,,,,,,,,,,
+YML0523,Kaveri Raj,Quality Assurance Engineer,Mohammad Momshad Khan,Loganathan S,5.1,AT&T,QA,kaveri.raj@ymedialabs.com,Manual Testing in web and mobile application,UI testing,SME,Advanced Beginner,"Performance and Load Testing, API Testing, Shell Scripting, Selenium",,,,,,,,,,,,,,,,
+YML0526,Shaurya Bhagat,Product Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,8.3,Bench,Product Management,shaurya.bhagat@ymedialabs.com,"Product definition.
+Research.
+Product Strategy.
+Product roadmapping /design / execution.
+Agile product owner.","Cross - functional stakeholder management, client management.
+Begineer level AI/ML as product manager.",Proficient,Competent,"Data analytics, gamification, user behaviour / psychology, LLM prompting ( Expert level)","1. Product management First steps - LinkedIn certification.
+
+2. AI/ML for product managers.
+
+3. Product and growth by GrowthX( Got selected as a top team and presented strategy to company founders)","Domain Expertise: International Banking.
+Healthcare.",Product management First steps,Non-Technical,Product management introduction,Linkedin,2018,,Product and growth,Non-Technical,"Product strategy & growth levers (Acquisition, onboarding, Engagement, Monetization)",2023,"GrowthX , Udemy",," Machine learning product management, 2023",
+YML0527,Prateek Arora,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,8.8,Credit One,iOS,prateek.arora@ymedialabs.com,Swift,SwiftUI/ Flutter/AR,Proficient,Competent,Cloud/Backend,,,"Flutter & Dart - The Complete Guide [2023 Edition]
+Solidity and NFT for Beginners ( Learn, Create and Sell)
+",Technical,Flutter and NFT certification ,Udemy,2023,,,,,,,,,
+YML0532,Vadla Naveen Chary,Senior Software Development Engineer in Test,Mohammad Momshad Khan,Loganathan S,12.1,Amway,Automation,naveen.chary@ymedialabs.com,"Java/Python 
+Appium, Selenium, API automation,TestComplete,BrowserStack.
+","Java Development using Spring.
+Android app development",Proficient,Competent,"Interested in Android/iOS app development,
+Microservices, AWS/Azure",,,,,,,,,,,,,,,,
+YML0535,Mayank Gulati,Technical Project Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,11.2,AT&T,Project Management,mayank.gulati@ymedialabs.com,Scrum Master,Client Negotiations/Reporting,Proficient,Competent,,"None on PM side, IBM DB2 certified",,"None on PM side, IBM DB2 certified",,,,,,,,,,,,,
+YML0536,Bharatkumar,Product Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,13.6,Total Environment,Product Management,bharatkumar@ymedialabs.com,"Product definition/design/development, Agile Product Owner, conducting client requirement workshops, analytics","RFPs, People management, cross functional stakeholder management, customer engagement",Proficient,Competent,"Advanced Analytics, AI/ML, Blockchain, VR-AR","CSPO
+SPM summit participation certificate from IIM Bangalore (ISPMA programme)","Domain Expertise: Aviation (SME)
+QSR, Automotive, Fintech",Certified Scrum Product Owner,Non-Technical,Scrum fundamentals for Product Owners,Scrum Alliance,2017,2019,ISPMA,Non-Technical,Product management fundamentals,2022,IIM Bangalore (ISPMA division),N/A,,
+YML0540,Veena Vijayamma Madhavan Pillai,Senior Program Manager,Sunil Kalkunte Ramaswamy,Aparna K,17.1,Amway,Project Management,veena.vm@ymedialabs.com,Senior Program Manager,,,,,,,,,,,,,,,,,,,,
+YML0542,Sharath N L,Senior Quality Assurance Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,5.1,Sutter Health,QA,sharath.nl@ymedialabs.com,"Manual Testing, Automation Testing",Perfomance Testing,Proficient,Advanced,,,,ISTQB,Technical,Testing Concepts,International Software Testing Qualifications Board,2017,No expiration,Certified Scrum master,Technical,Scrum practitioners an understanding of the project management methodology,2015,Scrum Alliance,No Expiration,,
+YML0543,Haneesha N T,Quality Assurance Engineer,Mohammad Momshad Khan,Loganathan S,6.2,"Credit One ,LECET",QA,haneesha.nt@ymedialabs.com,"Manual Testing ,
+Mobile testing","API testing , MySQL , Codeless Automation testing",Proficient,Advanced,,,,,,,,,,,,,,,,,
+YML0544,Ashray P Shetty,Technical Project Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,10.8,Credit One,Project Management,ashray.shetty@ymedialabs.com,"Project Management (Waterfall/Agile), Scrum Master (PSM 1)",Mobile development,SME,Competent,,PSM-1,,Certified SAFe 6 Advanced Scrum Master,Non-Technical,"Scaled Agile, Inc","A Certified SAFe Advanced Scrum Master (SASM) is a SAFe Scrum Master professional responsible for improving team results. Key areas of competency include: identifying and solving team anti-patterns, improving value flow using Kanban and engineering practices, supporting Program-level execution, and using problem-solving and advanced coaching techniques to drive relentless improvement.",2022,2023,Professional Scrum Master I (PSM I),Non-Technical,"Those who earn the globally recognized Professional Scrum Master I (PSM I) certification have demonstrated a fundamental level of Scrum mastery, including the concepts of applying Scrum, and proven an understanding of Scrum as described in the Scrum Guide. This individual has also demonstrated a consistent use of terminology and approach to Scrum.",2020,Scrum.org,,"LinkedIn:  Artificial Intelligence - How Projects Managers Can Leverage AI, Critical Thinking for Better Judgment and decision making, The ART of Leadership, Adaptive Project Leadership",
+YML0545,Dasa Pratikbhai Bhanubhai,Lead Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,12.1,FRB,Android,pratik.dasa@ymedialabs.com,Android OS,"Scrum Master, Team Management",SME,Proficient,"iOS, Management Skills, Cloud techs, Backend Stacks",,,CSM by scrum alliance,Non-Technical,"Agile, scrum",Scrum alliance,2019,Needs renewal,,,,,,,,
+YML0548,Suchak Mihir Dinkarray,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,6.7,Sutter Health,Frontend,mihir.suchak@ymedialabs.com,"React JS, Next JS, JavaScript, HTML, CSS, SCSS, GraphQL, Redux, Bootstrap","VueJS, Nuxt JS, NodeJS, Typescript, Git, Gulp",Proficient,Competent,"System Design, Nest JS (Backend)",,,,,,,,,,,,,,,,
+YML0550,Rajput Deepakkumar Vashishthasingh,Software Engineer,Mohammad Momshad Khan,Loganathan S,5,Amway,Android,deepak.rajput@ymedialabs.com,Android,JavaScript,Proficient,Beginner,,,,Cloud Computing,Technical,Learned a bit about cloud computing,IIT Gandhinagar,2016,,Ethical Hacking Expert,Technical,Leanrned about some securities vulnerabilities and Tried hacking an FB account using some tools.,2016,TechDefence,,"VB.net
+Technical
+Learned about VB.Net and Did small POC.
+2014
+
+C++
+Technical
+Learned about C++
+2013",
+YML0554,Aishwarya Chandrakant Madiwal,Senior Quality Assurance Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,5.1,Credit One,QA,aishwarya.c@ymedialabs.com,Manual Mobile and Web Testing," jmeter, API Testing, Selenium and Appium",Proficient,Beginner,appium with python,,,5 days workshop on Selenium with Java,Technical,It was a 1 week workshop conducted by Automation Testing Coach .,Amol Ajagare,2022,,,Technical,"7-Day python course  10-16 Feb, 2023",2023,Coding With Sagar,,,
+YML0555,Raghav Sharma,Software Engineer,Mohammad Momshad Khan,Loganathan S,5.1,Amway,iOS,raghav.sharma@ymedialabs.com,iOS,Node ,Proficient,Novice,NodeJs,,started on Nodejs learnings from Udemy. will be great to have some backend experience as well after udemy certifications.,Graph Developer - Associate,Technical,"Developers who obtain this certification possess a solid foundational knowledge of GraphQL and the Apollo tool suite to design a schema, run an Apollo Server, and perform queries with Apollo Client on the frontend.",Apollo,2022,,The Complete 2020 Flutter Development Bootcamp with Dart ,Technical, Covered Flutter and Dart,2020,Udemy,,,
+YML0556,Subhadip Ghosh,Lead Quality Assurance Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,11.6,FRB,QA,subhadip.ghosh@ymedialabs.com,"Manual Testing, Team Management","Automation (Selenium, Appium, Java, Xamarin UI Test, Ranorex)
+Data Base Testing(Oracle, MS SQL)
+API Testing (PostMan)
+Performance Testing(Jmeter)",SME,Competent,Cloud - AWS,,,PSM1,Non-Technical,Agile Scrum Framework,Scrum.org,2020,Lifetime,SAFE Agilist,Non-Technical,SAFE framework,2023,"Scaled Agile, Inc",2024,,"Cloud AWS, AI"
+YML0558,Ankit Bhana,Software Engineer,Mohammad Momshad Khan,Loganathan S,5.6,Bench,iOS,ankit.bhana@ymedialabs.com,iOS,Flutter,Proficient,Advanced,AI,,,,,,,,,,,,,,,,
+YML0559,Manik Gupta,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,5.1,Sutter Health,Frontend,manik.gupta@ymedialabs.com,"Javascript, Typescript, ReactJs, NextJs, Angular, HTML, CSS, SCSS, Git","VueJs, NuxtJs, Firebase",Proficient,"Competent, Competent, Advanced Beginner resp.","AWS, Azure, Nodejs, NestJs",,,,,,,,,,,,,,,,
+YML0561,Vinay Raj K,Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,5.5,Bench,iOS,vinay.raj@ymedialabs.com,iOS,"Java, python",SME,Proficient,Web development,,,,,,,,,,,,,,,,
+YML0562,Deva Sharma,Lead Quality Assurance Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,10.6,WeTransfer,QA,deva.sharma@ymedialabs.com,"Test Management & Tooling , Manual Testing , Automation , ADA Testing,
+SQL, Database ,Java ,Appium , Selenium , Rest Assured , BDD , Cucumber ",Data Science,"SME - Manual
+Proficient - Automation",Novice,Python,PGDDS - Data Science,Technical,,,"Exploratory Data Analysis (EDA) , Machine Learning , Hypothesis Testing , Clustered and Unclustered learning .",IIIT-Bangalore,2020,,BCS - Business Analayst,Non-Technical,Foundation certificate for Business Analysts,2016,BCS - The Chartered institute for IT,,ADA - Testing (Accenture) equivalent to ISTQB,
+YML0563,Pallavi Kalasur,Senior Quality Assurance Engineer,Mohammad Momshad Khan,Loganathan S,7.11,Maternity leave,QA,pallavi.kalasur@ymedialabs.com,Manual QA,Accessibility Testing,Proficient,Competent,Mobile Automation / Performance Testing,,,,,,,,,,,,,,,,
+YML0564,Mohammed Haseeb Ali Khan,Lead Quality Assurance Engineer,Mohammad Momshad Khan,Loganathan S,10.1,Amway,QA,mohammed.ali@ymedialabs.com,"Java
+Selenium
+RestAssured- API
+Appium
+Kobiton
+ BrowserStack","HTML
+SQL
+Jenkins
+PostMan
+BDD",Proficient,Competent,Performance and AWS,"ISTQB 
+",,AWS Certified Cloud Practitioner,Technical," Broad introduction to cloud computing concepts, AWS services, security, and architecture.",AWS,2022,2025,ISTQB,Technical,Understanding of software testing concepts and practices.  Demonstrate their knowledge of essential software testing principles and techniques,2015,ISTQB,,,
+YML0566,Hariharan Ramesh Kailas,Senior Software Engineer,Mohammad Momshad Khan,Loganathan S,5.11,AT&T,Frontend,hariharan.ramesh@ymedialabs.com,"HTML, CSS, JS, React, Lightning","TypeScript, Jest",Proficient,Proficient,Node JS / AWS,,,,,,,,,,,,,,,,
+YML0567,Anand Maruti Mali,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,7.1,Bench,Android,anand.mali@ymedialabs.com,"Kotlin, Java, Android","ML, Kotlin Multi Platform for mobile",SME,Competent,"Flutter, AI, ML",,,Supervised Machine Learning: Regression and Classification,Technical,"In the first course of the Machine Learning Specialization, you will: • Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn. • Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression  The Machine Learning Specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online.",DeepLearning.AI and Stanford University,2023,,Advanced Learning Algorithms,Technical,"In the second course of the Machine Learning Specialization, you will: • Build and train a neural network with TensorFlow to perform multi-class classification • Apply best practices for machine learning development so that your models generalize to data and tasks in the real world • Build and use decision trees and tree ensemble methods, including random forests and boosted trees  The Machine Learning Specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online.",2023,DeepLearning.AI and Stanford University,,"Name: Unsupervised Learning, Recommenders, Reinforcement Learning
+Type: Technical
+
+Description: In the third course of the Machine Learning Specialization, you will:
+• Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection.
+• Build recommender systems with a collaborative filtering approach and a content-based deep learning method.
+• Build a deep reinforcement learning model.
+
+The Machine Learning Specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online.
+
+Issuing Authority: DeepLearning.AI and Stanford University
+
+Year: 2023","ML, AI (Beginner in AI, currently have taken some courses.)"
+YML0568,Abdul Ziyan,Associate Software Engineer,Shanti Kuropati,Loganathan S,1.11,Bench,Frontend,abdul.ziyan@ymedialabs.com,Reactjs,"Nodejs , React Native, Dialogflow CX",Competent ,"Competent, Beginner, Advanced Beginner resp.","Vuejs, Nextjs ",,,,,,,,,,,,,,,,
+YML0569,Adithya S Shenoy,Associate Software Engineer,Mohammad Momshad Khan,Loganathan S,1.11,Bench,Frontend,adithya.shenoy@ymedialabs.com,React.js,"Node.js,Vue.js,React-native",Competent ,"Competent,Advanced Beginner","Next.js, AWS",,, Complete Next.js Developer in 2023,Technical,"Next.js Fundamentals, Routing with Next.js, Hydration, SEO and Different Rendering Techniques in Next.js,  Styling in Next.js , Serverless functions,  SWR with Client Side Rendering, Authentication with Magic, Incremental Static Regeneration, Authentication with Hasura, Deployment and Build Optimization.",Udemy,2022,,,,,,,,,
+YML0570,Anirudha S Mayya,Associate Software Engineer,Shanti Kuropati,Loganathan S,1.11,Bench,iOS,anirudha.sm@ymedialabs.com,Swift - Competent,"Objective-C - Advanced, MVVM Architecture - Competent, Firebase tagging and debugging - Advanced, App store certificates - Advanced, App release - Advanced,  Azure board - Beginner, Unit testing - Beginner, Apptimise - Beginner",Swift - Competent,"Objective-C - Advanced, MVVM Architecture - Competent, Firebase tagging and debugging - Advanced, App store certificates - Advanced, App release - Advanced, Azure board - Beginner, Unit testing - Beginner, Apptimise - Beginner","IOT, Cybersecurity"," Architecting with Google Compute Engine c
+https://www.coursera.org/specializations/gcp-architecture - Specialisation : contains 5 certifications under it
+Google Cloud Fundamentals: Core Infrastructure
+Reliable Google Cloud Infrastructure: Design and Process
+Essential Google Cloud Infrastructure: Core Services
+Elastic Google Cloud Infrastructure: Scaling and Automation
+Essential Google Cloud Infrastructure: Foundation
+Introduction to Cybersecurity Tools & Cyber Attacks
+Pattern Discovery in Data Mining
+Fundamentals of Network Communication
+Supply Chain Planning",,,,,,,,,,,,,,,
+YML0573,Dhruv Shetty,Associate Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,1.11,Bench,Frontend,dhruv.shetty@ymedialabs.com,"React JS,HTML,CSS,Webflow","Next JS, Gatsby,JavaScript,Typescript, Firebase",Competent,Competent,Cybersecurity and AWS,,,,,,,,,,,,,,,,
+YML0574,Faraz Shabbir Shaikh,Associate Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,1.9,Bench,Android,faraz.shaikh@ymedialabs.com,Android Dev - Kotlin/Java,"HTML, Javascript, CSS",Proficient,Advance,Flutter,,,Front-End Web UI Frameworks and Tools: Bootstrap 4,Technical,A Coursera course on front end web development using bootstrap 4,The Hong Kong University of Science and Technology,2020,,Introduction to Data Science in Python,Technical,"Course on Data cleaning, operations and analysis using pandas and numpy library.",2020,University of Michigan (through Coursera),,,Flutter
+YML0575,Jayesh Kumar,Associate Software Engineer,Mohammad Momshad Khan,Loganathan S,1.11,Amway,Android,jayesh.kumar@ymedialabs.com,Android,Python,Proficient,Advanced Beginer,Machine Learning,,,Introduction to Data Science in Python,Technical,This certification was about completing the course and assignment for data science using python from courser.,University of Michigan,2020,,,,,,,,,
+YML0576,Kshama Vidyananda,Associate Software Engineer,Shanti Kuropati,Loganathan S,1.11,Bench,iOS,kshama.vidyananda@ymedialabs.com,"swift,java",python,Advanced beginner,beginner,,,,Learn JMETER from Scratch on Live Apps -Performance Testing,Technical,"JMetre tool, load testing ,adding assertions, recording the script, adding controllers",Udemy,2023,,,,,,,,,
+YML0577,Madan A R,Associate Software Engineer,Mohammad Momshad Khan,Loganathan S,1.11,Bench,iOS,madan.ar@ymedialabs.com,iOS,Python,Competent,Advanced Beginer,Flutter / Backend,,,,,,,,,,,,,,,,
+YML0578,Mohammad Musthafa,Associate Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,1.11,Bench,Frontend,mohammad.musthafa@ymedialabs.com,"React JS, Javascript, HTML,CSS,SCSS, Typescript","Node JS, NextJS, NuxtJS, MySQL, AWS Serverless, Salesforce (sfcc)",Competent,Competent,"AWS, Fullstack, Salesforce",,,React Native -  The Practical Guide,Technical,"State management, Native device features, push notifications, publishing app",UDEMY,2022,,AWS Certified Developer Associate,Technical,"EC2 Fundamentals, Amazon S3, AWS serverless",2022,UDEMY,,,
+YML0581,Paresh Praveen,Associate Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,1.11,Sutter Health,Frontend,paresh.praveen@ymedialabs.com,"ReactJS, JavaScript, HTML, CSS/SCSS, NextJS, Typescript, Github","VueJS, NodeJS, Jest and Enzyme testing",Competent to Advanced,Advanced to Beginner,"Frontend - ReactJS, Back-end - NodeJS.",,,React Native - The Practical Guide [2023],Technical,"It covered key topics such as UI development, state management, navigation, and performance optimization, it also provides the essential knowledge for building robust mobile applications.",Udemy,2023,,,,,,,,,
+YML0582,Saneeth S,Associate Software Engineer,Shanti Kuropati,Loganathan S,1.11,Bench,Android,saneeth.s@ymedialabs.com,"Android Development, Kotlin",Jetpack compose,Competent,Advanced,"REST API, Flutter, AI",,,,,,,,,,,,,,,,
+YML0583,Sanjana G Rao,Associate Software Engineer,Mohammad Momshad Khan,Loganathan S,1.11,Bench,Frontend,sanjana.rao@ymedialabs.com,"JavaScript, ReactJs, HTML, CSS/SCSS, Github, ES6","Responsive Web Design, TypeScript, NodeJs, Java, JSX, Jest and Enzyme testing","Competent, Advanced","Advanced, Beginner","ReactJs, VueJs, Webflow, Machine Learning and AI",Complete Guide To Redux-Saga With React JS,,Complete Guide To Redux-Saga With React JS,,,,,,,,,,,,,
+YML0584,Shravya P,Associate Software Engineer,Mohammad Momshad Khan,Loganathan S,1.11,Bench,Frontend,shravya.p@ymedialabs.com,"HTML, CSS/SCSS, Javascript, ReactJS, NextJS, Typescript, jest and react testing library, Contentful CMS, Salesforce b2c commerce (SFCC)","Python, NodeJS, ExpressJS, MongoDB, MySQL, Java, VueJS, React Native",,,,SFCC,,The Complete React Native + Hooks Course,Technical,"Understand React Native with Hooks, Context, and React Navigation.",Udemy,2023,,,,,,,,,
+YML0585,Shrivya Shetty,Associate Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,1.11,Bench,Frontend,shrivya.shetty@ymedialabs.com,"React JS,HTML,CSS, MySQL,javascript,Typescript","Node JS, Vue JS",Competent,Competent,"Frontend - ReactJS, Back-end - NodeJS.",,,,,,,,,,,,,,,,
+YML0586,Stalin Christopher Dsouza,Associate Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,1.9,Bench,Android,stalin.dsouza@ymedialabs.com,Kotlin/Java,Javascript,Proficient,Beginner,Node.js / MongoDb / AWS / Flutter/ Data Science,,,,,,,,,,,,,,,,Javascript
+YML0587,Sujay S Shenoy,Associate Software Engineer,Mohammad Momshad Khan,Loganathan S,1.11,Bench,Android,sujay.shenoy@ymedialabs.com,Kotlin,Jetpack compose,Competent,Advanced,,,,,,,,,,,,,,,,,
+YML0588,Swasthik K S,Associate Software Engineer,Mohammad Momshad Khan,Loganathan S,1.11,Bench,iOS,swasthik.ks@ymedialabs.com,iOS Development,React native,Competent,Beginner,SwiftUI,,,,,,,,,,,,,,,,
+YML0593,Anaparthi Prasanth,Software Development Engineer in Test,Shubhang Krishnamurthy Vishwamitra,Aparna K,6.3,Sutter Health,Automation,anaparthi.prashanth@ymedialabs.com,"Java, Selenium, Appium","API Automation, Desktop Automation, Jenkins integration",Proficient,Advanced,Framework development,,,,,,,,,,,,,,,,
+YML0598,Shashanka N,Engineering Manager,Shanti Kuropati,Loganathan S,14.8,Total Environment,Frontend,shashanka.n@ymedialabs.com,On Paternity Leave,,,,,,,,,,,,,,,,,,,,
+YML0599,Vinay S,Engineering Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,13.5,Sutter Health,Frontend,vinay.sridhara@ymedialabs.com,"Frontend (React, Vanilla JS, CMS), System design and architecture, People management",Backend (NodeJS and MongoDB) Basics,,,,,,,,,,,,,,,,,,,
+YML0600,Manikant Upadhyay,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,8.1,Credit One,Full Stack,manikant.upadhyay@ymedialabs.com,"Javascript (HTML5 & CSS along with SCSS), Vue3, Nuxt3, ReactJS, Typescript,NodeJS","ExpressJS, MongoDB, Spring boot, PixiJS, PhaserJS, Loopback 3+, NestJS, Redis, NextJS, mySQL",Proficient,Advanced,"Angular, iOT , AI",,,,,,,,,,,,,,,,
+YML0601,Amay Vinay Prabhu,Associate Product Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,4.4,Sutter Health,Product Management,amay.vinay@ymedialabs.com,"Product Definition/Design/Development, Solution Design, Low Fidelity Wireframing, Analytics","Product Strategy, GTM,Usability Testing, Experimentation, Customer Engagement, Stakeholder Management",Competent,Advanced Beginner,"Advanced Data Analytics, User Research, Experimentation",,"Domain Expertise: Fitness & Healthcare (Proficient), Fintech (Advanced Beginner)",,,,,,,,,,,,,,
+YML0604,Jakkamputi Banu Harshavardhan,Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,5.9,Bench,iOS,banu.harshavardhan@ymedialabs.com,"Swift, ReactNative","SwiftUI, Web Front End (Javascript, HTML, CSS), App Security (SSL Pinning)",Proficient,Beginner,"AWS Cloud, ARKit",,,,,,,,,,,,,,,,Javascript
+YML0605,Srividya M Menon,Engineering Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,14,FRB,iOS,srividya.menon@ymedialabs.com,"iOS, Android, Delivery+People Management","Xamarin, Web, DevOps, Cloud, Security",SME,Competent,"Full Stack, Cloud, Analytics, ",,,Strategic Thinking,Non-Technical,This course teaches managers and leaders how to use strategic thinking to guide the direction of their teams and come up with solutions to key business problems,Project Management Institute (PMI)®,2022,NA,How to Fix Bad Agile,Non-Technical,This course covers how to collaborate with the rest of the organization and keep your team together,2022,Project Management Institute (PMI)®,None,Transitioning from Waterfall to Agile Project Management (2021 - National Association of State Boards of Accountancy (NASBA) and PMI) + Agile at Work: Planning with Agile User Stories (2021 - National Association of State Boards of Accountancy (NASBA) and PMI),
+YML0610,Chilakamarri Pavan Kumar,Senior Software Development Engineer in Test,Shubhang Krishnamurthy Vishwamitra,Aparna K,10.2,Bench,Automation,chilakamarri.pavan@ymedialabs.com,"Selenium, Java,  Rest-Assured, Appium,TestNG, JUnit, Cucumber, Maven, GitHub, Automation framework development.","Oracle, MongoDB, ActiveMQ, Jira, Rally, Gradle, Jenkins, Postman, SpringBoot, Xcode, Android studio",Proficient,Competent,Data structures and algorithms,,,,,,,,,,,,,,,,
+YML0613,Devadharshini Jayakumar,Software Development Engineer in Test,Shanti Kuropati,Loganathan S,4.1,Bench,Automation,devadharshini.k@ymedialabs.com,"Selenium ,java,TestNG,JUNIT,cucumber,Maven","Jira ,Rally",Proficient,Competent,,,,,,,,,,,,,,,,,
+YML0617,Siddaharth Suman,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,7.8,Sutter Health,Frontend,siddaharth.suman@ymedialabs.com,"JS, Angular","React.js, Docker, Java, Selenium Automation, Php, Vue.js",Proficient,Competent,"- AWS
+- DevOps (Kubernetes, Docker swarm)
+- TDD
+- Node.js",,,,,,,,,,,,,,,,
+YML0619,Deepak Kumar,Software Engineer,Shanti Kuropati,Loganathan S,5.50,PWC,iOS,Deepak.kumar@ymedialabs.com,"Xcode, Swift",SwiftUI,Proficient,Competent+,REST API creation,,,,,,,,,,,,,,,,
+YML0620,Sreeram Venkataramani,Product Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,16,Sutter Health,Product Management,sreeram.venkataramani@ymedialabs.com,"Product Definition/Design/Development, Analytics","Product Strategy, Go to Market Analysis, Usability Testing, Customer Engagement. People Management, Stakeholder Management",Proficient,Competent,"Experimentation, Analytics, Strategy","CSPO, AMP (US Residential Mortgage), BlackBlot Strategic Planner (Participation Certificate)","Domain Expertise: US Residential Mortgage (SME)
+Fintech, SaaS, Healthcare",Accredited Mortgage Professional,Non-Technical,"Recognition on graduating from School of Mortgage Banking for the achievements of individuals in the real estate finance industry for their pursuit of educational excellence, high ethical standards, and commitment to professionalism",Mortgage Bankers Association,2017,NA,Post Graduate Program in Management for Executives (Marketing specialisation),Non-Technical,Executive MBA program,2017,Great Learning (Great Lakes Institute of Management) & IIT Stuart School of Business (Illinois Institute of Technology) ,NA,,
+YML0621,Rahul Dinkar Umap,Senior Software Engineer,Mohammad Momshad Khan,Loganathan S,7.7,Bench,iOS,rahul.umap@ymedialabs.com,iOS - Swift / Obj-C,"NodeJS, SwiftUI",Proficient,Novice,"AWS, Firebase, Flutter",,,,,,,,,,,,,,,,
+YML0623,Ragini Patidar,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,6,WeTransfer,Frontend,ragini.patidar@ymedialabs.com,"HTML, CSS, Javascript,
+Typescript, React, Next js","NodeJS, SQL,",Proficient,Advanced,Python,,,,,,,,,,,,,,,,
+YML0625,Sathyajith R,Software Engineer,Mohammad Momshad Khan,Loganathan S,6,Amway,Full Stack,sathyajith.r@ymedialabs.com,Javascript,NodeJS/React,Proficient,Competent,Fullstack and System Design,"Angular, React, NodeJS, MongoDB","Started in YML as a React dev. Learnt backend(NodeJS), AWS and GraphQL for Amway project.","Angular, React, NodeJS, MongoDB",,,,,,,,,,,,,
+YML0626,Shrikant Vilas Ballal,Staff Engineer,shanti Kuropati,Loganathan S,11,Amway,Android,shrikant.ballal@ymedialabs.com,"Android development, Kotlin, Java, Architectural Design of large scale applications, Design Patterns, Testing Strategy, Release Engineering, Mobile CI/CD Infrastructure using Github Actions, Jenkins, AppCenter and Firebase","Thought Leadership for development teams, Innovation, Service Reliability Engineering, IT Security, Contributing to RFPs and Farming opportunities",,,,,,,,,,,,,,,,,,,
+YML0630,Girish H,Staff Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,13.6,Bench,Android,girish.h@ymedialabs.com,"Native Android, Product Architect, Technical Writer","AI, Basics of AWS/GCP Cloud, CI/CD, Design system, R&D, Blog writer, CMS, API development (Spring boot)",,,,,,,,,,,,,,,,,,,
+YML0631,Keshavkumar A C,Software Engineer,Shanti Kuropati,Loganathan S,4.1,Hoag,iOS,keshavkumar.ac@ymedialabs.com,"Swift, Objective-C",SwiftUI,Proficient,Competent,"System Design/Architecture,
+DSA",,,The Complete React Native + HooksCourse,Technical,"React Native, Cross Platform Development, State Management, Etc..",Udemy,"March, 2023",,,,,,,,,
+YML0633,Akshay Vikasrao Tule,Senior Software Engineer,Shanti Kuropati,Loganathan S,6.1,Sutter Health,iOS,akshay.tule@ymedialabs.com,"Swift, SwiftUI","Objective C, Firebase Analytics, AppCenter MDM and analytics",Proficient,Advanced,"Flutter, React Native",PGDMC,,PG Diploma in Mobile Computing,Technical,The course is mostly focused on mobile application development and the basics of mostly used programming languages,"C-DAC's Advanced Computing Training School, Pune",2016,NO expiration,,,,,,,,
+YML0634,Gaurang Agarwal,Product Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,9,Hoag,Product Management,gaurang.agarwal@ymedialabs.com,"Product Definition/Design/Development, Analytics","RFP, Product Metrics, Product Strategy, Usability Testing, Customer Engagement. People Management, Stakeholder Management",Proficient,Competent,"AI/ML, Design System, Advance Data Analytics","PSM I, Google Analytics","Domain Expertise: Fintech (LMS), Healthcare, Insurance","PSM I, Google Analytics",,,,,,,,,,,,,
+YML0635,Akshay,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,5.9,Bench,Android,akshay.prabhu@ymedialabs.com,Android,Cordova Plugins for Hybrid apps,Proficient,Novice,"- Back End / Node JS
+- AI / ML
+- Security Engineering
+- AWS Cloud",,,"Concurrent Programming with Android: Threads, Workers, and Kotlin Coroutines",Technical,Concurrent Programming and Android Development | Link : https://www.linkedin.com/learning/certificates/be587fe4e98b0a8cd7e11d21490dc90a7c4b14fd91f09b7f66812ddacbeed8f3?trk=backfilled_certificate,LinkedIn,March 2022,,Testing with JUnit,Technical,"Unit testing with JUnit, Best practices and annotations | Link : https://www.linkedin.com/learning/certificates/7f9a676895407f818a188ac59facbee787e31126d8e3e2fd182b2fa2e6bf6ef8?trk=backfilled_certificate",Feb 2022,LinkedIn,,"Java Exception Handling
+- Technical
+- LinkedIn
+- Sep 2021
+- Exception Management and Java
+-https://www.linkedin.com/learning/certificates/720bb497d1e00ee124e8ce3f3ca0b3a97435fe0a94a0ca0f549dc8c5b608f8db?trk=backfilled_certificate
+-------------------------------------------------------
+CutShort Certified Android Development - Advanced
+- Technical
+- CutShort
+- July 2021
+- Skill test on Advacnced android developement
+- https://cutshort.io/certificate/51094
+----------------------------------------------------------------------------------
+CutShort Certified Kotlin - Basic
+- Technical
+- CutShort
+- July 2021
+- Basic Kotlin
+- https://cutshort.io/certificate/51091
+----------------------------------------------------------------
+Java (Basic) Certificate
+- Technical
+- HackerRank
+- Sep 2021
+- https://www.hackerrank.com/certificates/6ec5bfd17cec","KMM, 
+System Design"
+YML0639,Kapdi Jagruti Jagdishbhai,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,7.5,Bench,Android,jagruti.kapdi@ymedialabs.com,Android (Kotlin/Java),Flutter,Proficient,Proficient,"JAVA, Springboot/ Hibernate/
+MySQL/Oracle
+/Angular JS",,,,,,,,,,,,,,,,Springboot/MySQL
+YML0640,Bharathy Lakshmikanthan,Senior Quality Assurance Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,5.1,Hoag,QA,bharathy.lakshmikanthan@ymedialabs.com,Manual testing,"Performance testing, Automation testing, UI/UX",Proficient,Beginner,,,,,,,,,,,,,,,,,Appium mobile automation 
+YML0643,Dev Karan,Senior Software Engineer,Shanti Kuropati,Loganathan S,6.60,YML Internal - Component Library,iOS,dev.karan@ymedialabs.com,"Swift, Objective C","Python, NodeJS",Competent,Novice,"Python, NodeJS, AI, ML",,,,,,,,,,,,,,,,
+YML0645,Alex Thomas Olassayil,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,7,Bench,iOS,alex.olassayil@ymedialabs.com,iOS Development,"SwiftUI, React Native",Proficient,Beginner,"SwiftUI, Flutter",,,Async/Await and Actors - Concurrency in Swift,Technical,Async/Await and Actors - Concurrency in Swift,Udemy,2023,,,,,,,,,
+YML0646,Rishikesh Ramesh Yadav,Software Engineer,Shanti Kuropati,Loganathan S,5.4,Bench,iOS,rishikesh.yadav@ymedialabs.com,Swift,"RxSwift/ RxCocoa, Firebase, Adobe analytics",Proficient,Competent,"SwiftUI, Android, Flutter",,,,,,,,,,,,,,,,
+YML0648,Balasubramani Kuppusamy,Senior Software Engineer,Mohammad Momshad Khan,Loganathan S,16.3,Bench,DevOps,balasubramani.kuppusamy@ymedialabs.com,"Multi Cloud , Multi Cluster, Hybrid
+Cloud Platforms (AWS, GCP, Azure, Digitalocean, Oracle )
+Container Platform (Docker Container and Kubernetes , OpenShift Administration, Azure AKS, Google GKE, AWS EKS, KOPS, Kubespray)
+VMware - Virtualization
+Rancher , Google Anthos
+Service Mesh,
+GitOps,
+Serverless - Knative
+DevOps - CI/CD , Google Devops, Mobile Devops
+Infrastructure Automation Terraform, Consul, Packer
+Hashicorp Vault, Banzai Vault
+Linux
+Search and Analytics
+Monitoring / Alerting / Tracing
+Backup and DR Solution","Go-Lang
+Pyhon
+Database Basic (SQL and NoSQL)
+Oracle - ASM
+Business Marketing and Leadership
+IT Cyber Security ",,,,"Lynda - cybersecurity
+Certified Kubernetes Administrator (CKA)
+Certified Kubernetes Application Developer (CKAD)
+Rancher - Certfied Rancher Operator 
+OpenShift Administrator - RedHat Certify for Complete. ",,"Lynda - cybersecurity
+Certified Kubernetes Administrator (CKA)
+Certified Kubernetes Application Developer (CKAD)
+Rancher - Certfied Rancher Operator 
+OpenShift Administrator - RedHat Certify for Complete. ",,,,,,,,,,,,,
+YML0651,Rijo Samuel,Software Engineer,Shanti Kuropati,Loganathan S,6,Bench,iOS,rijo.samuel@ymedialabs.com,"iOS, Swift, XCode","TypeScript, JavaScript",Proficient,Beginner,Fullstack,,,,,,,,,,,,,,,,
+YML0652,Manjunath Subramanyam,Lead Software Engineer,Mohammad Momshad Khan,Loganathan S,10,Hoag,Full Stack,manjunath.subramanyam@ymedialabs.com,"NodeJS, Javascript, Typescript, Express, MongoDB, AWS, Docker","ReactJS, Angular2, Loopback, GraphQL, Kubernetes",Competent,Competent,"Backend
+AWS Solutions Architect",AWS Practitioner Certification,NA,AWS Certified Solutions Architect - Associate,Technical,"AWS Concepts in depth, Cloud based solutions, System design",AWS,2023,,Pragmatic System Design,Technical,"Backend + Frontend + Database designs, High resilience architecture, Caching, Queues etc.",2023,Udemy,,"Technical - MongoDB Developer Certification - By MongoDB - 2022
+Technical - React Front-end Programming - By Udemy - 2020
+Technical - Basic Python Programming - By Udemy - 2021
+Technical - AWS Certified Cloud Practitioner - AWS - 2021",
+YML0653,Parveen Sharma,Senior Software Engineer,Mohammad Momshad Khan,Loganathan S,8,Bench,Android,parveen.sharma@ymedialabs.com,Android,Flutter/NodeJS/PHP,Proficient,"Flutter - Proficient
+NodeJS/PHP - Advanced Beginner",Fullstack and System Design,,Started on NodeJS. It will be nice to have fullstack experience as well.,,,,,,,,,,,,,,
+YML0655,Malla Gnanadeep,Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,5,Credit One,iOS,malla.gnanadeep@ymedialabs.com,"iOS Development (Swift, SwiftUI)",Web backend & frontend,Proficient,Beginner,"Cloud, AI",,,,,,,,,,,,,,,,
+YML0656,S. Vakesh,Technical Project Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,11.7,Bench,Project Management,vakesh.sankaran@ymedialabs.com,Project Manager (Agile & Waterfall),Business Analysis,SME,Competent,SAFe,"PMP, CSM",,PMP,Non-Technical,"Project Management Professional having end-to-end knowledge of 10 pillars of project management such as - talking about communication management, Schedule management, Cost management, Scope management, Stakeholder management, Risk management, Quality Management among others",Project Management Institute,2021,"Extended at the end of 2023 for 3 more years after Professional Development Units (60 hours of paid trainings, workshops, webinars, sessions)",Certified Scrum Master,Non-Technical,"Scrum, Agile methodologies",2021,Scrum Alliance,2023 Dec,"-- AI/ML application in Data Science, Udemy
+-- AI for project management, LinkedIn learning
+-- Automation using Selenium and Protatcor, Udemy
+-- Angular JS complete bootcamp, Udemy
+-- SAFe 6.0 for professionals, LinkedIn
+-- Product and Design thinking, Udemy",
+YML0657,Maryam Fatima,Technical Project Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,10.7,"Sutter Health,YML Internal - Component Library ",Project Management,maryam.fatima@ymedialabs.com,Scrum Master,Project Management,Proficient,Competent,,PSK -1,ISTQB (Testing) & AHM 250 (HealthCare),Professoinal scrum Master ,Non-Technical,"Agile, Scrum, Scrum Master role.",Scrum.org,2023,NA,,,,,,,,
+YML0659,Ravita Atwal,Technical Project Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,11.8,Maternity leave,Project Management,ravita.atwal@ymedialabs.com,Project Manager (Agile & Waterfall),,SME,,,CSM,,CSM,,,,,,,,,,,,,
+YML0663,Darshan Keerthi R,Senior Quality Assurance Engineer,Shanti Kuropati,Loganathan S,5.4,Yeti,QA,darshan.keerthi@ymedialabs.com,"Appium, Jenkins and Rest assured ,Selenium using python",,Proficient,,Appium and rest assured,Selenium with Java certificate from Simplilearn,Certificate program was held by my previous organization and certificates was provided by Simplilearn on successful project submission(only few employees was sellected for this program),Selenium with Java certificate from Simplilearn,,,,,,,,,,,,,
+YML0664,Utpreksha Singh,Product Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,9.5,Bench,Product Management,utpreksha.singh@ymedialabs.com,"Product Definition, Strategy, Execution and research","Customer engagement, Design & Analytics",Proficient,Competent,"Design, Analytics & Experimentation",Product Management from Houston University,"Domain Expertise: Automotive, E-commerce, Marketplace, B2B/B2B2C",International Certificate in Product Management Program,Non-Technical,"Product management fundamentals, Agile Product Management, Product Marketing, UI/UX design, Digital Product Management ","Institute of Product Leadership Inc., USA and C.T Bauer College of Business, University of Houston",2022,,,,,,,,,
+YML0665,Himanshu Ratnam,Product Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,6.8,Credit One,Product Management,himanshu.ratnam@ymedialabs.com,"Product-Definition,Design, Strategy ,Execution & Analytics ","Presales , RFP , Client Management",Proficient,Advanced,Data Analytics  and user research ,,"Domain Expertise: FMCG (Proficient) - Modern & Traditional Sales, Trade Promotion Management, Retail Execution & Merchandising & Fintech (Competent)",,,,,,,,,,,,,,
+YML0666,Srijita Thakur,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,7.5,Sutter Health,Backend,srijita.thakur@ymedialabs.com,"Nodejs,NestJs,Express,Postgresql,Javascript, MongoDB, React","ReactJS,MQTT,C,IoT, AWS, Azure, MySQL",Competent,Competent,,,,Mongodb Developer path,,,Mongdb,2022,,,,,,,,,
+YML0667,Sofikul Mallick,Lead Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,10.9,Sutter Health,Full Stack,sofikul.mallick@ymedialabs.com,"Node JS, Typescript, JavaScript, Java, Spring Boot, MongoDB, MySQL","Kafka, PostgreSQL, AWS Lambda, Elastic Search, Firebase",Proficient,Competent,"GraphQL, Cloud, GRPC, Golang",,,Graph Developer - Associate,Technical,GraphQL Certified Developer,APOLLO,2023,,Graph Developer - Professional,Technical,GraphQL Certified Developer,2023,APOLLO,,"Certified ScrumMaster, Non-Technical, Agile Scrum Master, 2027, ScrumAlliance, 2019",
+YML0670,Amara Saida Rao,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,5.3,Bench,iOS,saidarao.amara@ymedialabs.com,Swift,Python,Proficient,Beginner,Flutter/Java,,,,,,,,,,,,,,,,next.js
+YML0671,Preetham Ivan Dsouza,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,5.1,Credit One,Android,preetham.dsouza@ymedialabs.com,"Android, Kotlin, Compose & Java",Python,Proficient,Beginner,Web(Frontent & Backend),,,"Master Android app development (Kotlin) with Clean Architecture, Test driven development, HILT, Espresso & Unit Testing",Technical,Its a certification course to understand the basics of TDD with clean architecture.,Udemy,2022,,,,,,,,,
+YML0673,Yadulla Naresh Reddy,Lead Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,12.1,Sutter Health,Backend,naresh.yadulla@ymedialabs.com,"Nodejs, iOS(swift, objective-c), Express, Postgres, MSSQL","AWS, Azure",Proficient,Competent,Solution architect,,,AWS Certified Solutions Architect - Associate,Technical,"showcases knowledge and skills in AWS technology, across a wide range of AWS services",AWS,2022,"Dec 15, 2025",,,,,,,,
+YML0674,Pallavi Tandan,Product Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,5.8,WeTransfer,Product Management,pallavi.tandon@ymedialabs.com,"Product Strategy, Roadmapping,User & Market Research,Customer Interviews, Product definition, User Surveys & Experimentation, Execution, Design, Agile Product Owner, Pitch Work, Product Analytics, AI Product Ideation & Development, Usability Testing","Business Development, Project Management, Client Relationship Management, Manual testing, Stake holder management",Proficient,Proficient,Advanced Data Analytics and Experimentation,None,"Domain Expertise: Ecommerce, Creators Economy, Cloud Storage & file hosting service, SaaS, B2B2C",,,,,,,,,,,,,,
+YML0675,Karanam Mounika,Senior Quality Assurance Engineer,Mohammad Momshad Khan,Loganathan S,6.1,AT&T,QA,mounika.karanam@ymedialabs.com,"Manual Testing (System, API, Accessibility, Network etc)",Automation (Selenium with Java),SME,Novice,,,,,,,,,,,,,,,,,
+YML0676,Surbhi Gupta,Engineering Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,10.5,Credit One,iOS,surbhi.gupta@ymedialabs.com,"Mobile, iOS",Cloud,,,,,,Open Group Certified Solution Architect,Technical,https://www.credly.com/badges/72e67f09-4646-4fd5-b310-5f6900f0b8dc?source=linked_in_profile,The Open Group,"May 18, 2021","May 17, 2024",AWS Certified Cloud Practitioner,Technical,AWS ,"May 23, 2021",AWS,"May 23, 2024","Microsoft Certified: Azure Fundamentals/Technical/Azure/April 25 2021/Mircosoft/-
+Google Play Academy - Store Listing Certificate/Technical/Dec2022/ Google/Dec2024
+1. Professional Certification: Level 1 - Certified Solution Architect - Expires May, 2024
+2. AWS Certified Cloud Practitioner - Expires May, 2024
+3. Microsoft Certified Azure Fundamentals
+4. IBM Certified Cloud Advocate",
+YML0677,Priyanka S,Quality Assurance Engineer,Shanti Kuropati,Loganathan S,5.2,L'Oreal,QA,priyanka.srinivasa@ymedialabs.com,Manual and Automation ,web automation using selenium,proficient-manual,beginner-automation,mobile automation,,,,,,,,,,,,,,,,
+YML0680,P C Lithin,Senior Quality Assurance Engineer,Shanti Kuropati,Loganathan S,7.9,Hoag,QA,lithinpc@ymedialabs.com,Manual Testing ,Automation,SME,Novice,Mobile automation,,Ram: He is not reporting to me,,,,,,,,,,,,,,
+YML0683,Margin K S,Senior Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,5.6,Credit One,Android,margin.ks@ymedialabs.com,"Java, Kotlin",Python,Proficient,Advanced Begineer,Python,,,Kotlin essential training,Technical,"Kotlin language's essential features, from functions and classes to coroutines, as well as how to effectively debug Kotlin code.",Linkedin,2022,,Using Python for automation,Technical,learn how to automate your own repetitive tasks using Python,2021,Linkedin,,"how to make strategic thinking a habit - non technical, Authority - Linkedin",
+YML0685,Sahil Saini,Lead Software Engineer,Shanti Kuropati,Loganathan S,9.60,YML Internal - Component Library,iOS,sahil.saini@ymedialabs.com,"Swift, Objective C","SwiftUI, React Native, JS",Proficient,Beginner+,"React, Full Stack",,,,,,,,,,,,,,,,
+YML0687,Nishant Thite,Engineering Manager,Mohammad Momshad Khan,Loganathan S,12,AT&T,iOS,nishant.thite@ymedialabs.com,"NodeJS, iOS, Android.","IoT, Azure, AWS, Augmented Reality",,,,"Professional Certifications:
+  1) NodeJS, Udemy, 2023
+  2) Google Play - Store Listing Certificate, Google Play Academy 2022
+  3) Blockchain for Business, Technical, Hyperledger Fabric, Linux Foundation, 2018
+  4) advance Android programming, Technical, 2018, Udemy
+  5) iOS bootcamp, Technical, 2018, Udemy
+  6) Swift bootcamp, Technical, 2018, Udemy
+  7) Blockchain Developers, Technical, 2018, IBM
+  8) git essentials, Technical, 2018, Udemy
+  9) Harnessing the power of AI, Non Technical, 2017, Acamica",,NodeJS,Technical,"NodeJS, Rest APIs, SQL, Backend, Database, Authentication, Express, TypeScript",Udemy,2023,,2) Google Play - Store Listing Certificate,Non-Technical,List and market apps on Google Play store,2022,Google Play Academy,2024,"3) Blockchain for Business, Technical, Hyperledger Fabric, Linux Foundation, 2018
+4) advance Android programming, Technical, 2018, Udemy
+5) iOS bootcamp, Technical, 2018, Udemy
+6) Swift bootcamp, Technical, 2018, Udemy
+7) Blockchain Developers, Technical, 2018, IBM
+8) git essentials, Technical, 2018, Udemy
+9) Harnessing the power of AI, Non Technical, 2017, Acamica",
+YML0688,Rupali Patel,Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,3.7,Sutter Health,Backend,rupali.patel@ymedialabs.com,"Java, SpringBoot, Mvn, API Design, Swagger Doc, DB (Mongo DB, NoSQL), Junit, Git, Docker, Kafka, Flink","Design Pattern, System Design, Microservice, MySQL, Redis, Node JS (Nest JS)",Proficient,Competent,AWS,,,PG Level Advance Certification Programme in AI and MLOps,Technical,"Machine Learning, Deep Learning, Tensorflow, Scikit learn, Docker, Azure",IISC Bangalore,2023-2024,,,,,,,,,
+YML0689,S R Venkatesh Murthy,Associate Software Engineer,Shanti Kuropati,Loganathan S,0.11,Bench,iOS,venkatesh.murthy@ymedialabs.com,"Swift, Python Programming","MYSQL, C++,HTML, CSS","Swift(Advanced),Python Programming(Competent),","MYSQL( Advanced),C++(advanced),HTML(Beginner), CSS(Beginner)",,"Machine Learning with AI using Python.
+MySQL Basics
+Python for Competitive Programming.",,,,,,,,,,,,,,,
+YML0690,Sathi Lalitha Saravan Aditya Reddy,Associate Software Engineer,Shanti Kuropati,Loganathan S,0.11,Bench,iOS,saravan.reddy@ymedialabs.com,Freshers (Campus),Freshers (Campus),NA,NA,,,,,,,,,,,,,,,,,
+YML0691,Smruthi R Paladhi,Associate Software Engineer,Mohammad Momshad Khan,Loganathan S,0.11,Bench,Backend,smruthi.paladhi@ymedialabs.com,"Node.js, nest js","mongodb, AWS",,,,"nodejs, python, Machine Learning, web development",,Nodejs Developer Certification,Technical,"Nodejs, Express, MongoDB, Jest, WebSockects, REST APIs, GitHub, Asynchronous programming, Mongoose",Udemy,2023,,Web Development,Technical,"HTML, CSS, PHP, JavaScript, BootStrap, DBMS, React",2019,Internshala,,"Machine Learning
+Technical
+Artificial Intelligence, Machine Learning, Python, Neural Networks
+2023
+Udemy",
+YML0692,Shamanth R,Associate Software Engineer,Shanti Kuropati,Loganathan S,0.11,Bench,iOS,shamanth.r@ymedialabs.com,"Swift(Advanced),Python programming(Competent),","HTML5(Advanced),MySQL(Advanced),CSS3(Advanced),JavaScript(Beginner),C/C++(Beginner),php(Beginner),Java(Beginner","Swift(Advanced),Python programming(Competent),","HTML5(Advanced),MySQL(Advanced),CSS3(Advanced),JavaScript(Beginner),C/C++(Beginner),php(Beginner),Java(Beginner",,"Introduction to HTML5, Coursera.
+Introduction to CSS3, Coursera.
+Interactivity with JavaScript, Coursera.
+Frontend Fundamentals, Pirple.
+SQL Certification, SoloLearn and Hackerrank.
+Elements of AI, University of Helsinki.
+Cloud Foundational Course, Great Learning.",,,,,,,,,,,,,,,
+YML0693,Kishor L D,Associate Software Engineer,Shanti Kuropati,Loganathan S,0.11,Bench,iOS,kishor.ld@ymedialabs.com,Freshers (Campus),Freshers (Campus),NA,NA,,,,,,,,,,,,,,,,,
+YML0694,Harsha A M,Associate Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,0.11,Bench,iOS,harsha.am@ymedialabs.com,Swift,Python,Advanced,Novice,"SwiftUI, Java Script, HTML and CSS",,,,,,,,,,,,,,,,"HTML, CSS and JS"
+YML0695,Karthik T V,Associate Software Engineer,Mohammad Momshad Khan,Loganathan S,0.11,Bench,Backend,karthik.tv@ymedialabs.com,"Python, Django, postgresql","Nodejs, nestjs, mongodb",,,,"Python and django certificate from udemy
+      Nodejs certificate from udemy ",,Build a Backend REST API with Python & Django,Technical,"Python, Django, REST APIs",Udemy,2023,,Backend development with Nodejs,Technical,Basics and fundamentals of Nodejs and Expressjs,2022,Ineuron,,"Python and django certificate from udemy
+      Nodejs certificate from udemy ",
+YML0696,Karthik C,Associate Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,0.11,Sutter Health,Backend,karthik.c@ymedialabs.com,"Node JS, Typescript, MongoDB, NestJs","Python,Java",Competent,Beginner,AWS,,,NPTEL Java and Basic Python Certification,Technical,Basic coding skills in JAVA and Python,IIT Kharagpur,2020,No expiration,,,,,,,,
+YML0697,Monika Ranjan,Associate Software Engineer,Shanti Kuropati,Loganathan S,0.11,Bench,iOS,monika.ranjan@ymedialabs.com,"iOS Development, Swift","Python, SwiftUI",Advanced,Beginner,"Python, AI, ML",,,NPTEL,Technical,"Programming, Data Structures and Algorithms using Python","Indian Institute of Technology, Madras",2021,,Digital Skills: Artificial Intelligence,Technical,Basics of Artificial Intelligence,2020,Accenture,,,
+YML0698,Rahul Ranjan Pandey,Associate Software Engineer,Mohammad Momshad Khan,Loganathan S,0.11,Bench,Backend,rahul.pandey@ymedialabs.com,Freshers (Campus),Freshers (Campus),NA,NA,,,,,,,,,,,,,,,,,
+YML0699,Harshitha S,Associate Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,0.11,Bench,IOS,harshitha.srikanth@ymedialabs.com,Swift,"Java ,Python",Advanced Beginner,Beginner,"Swift UI, Web, Kotlin, Python",,,Complete iOS App Development,Technical,It is a course using swift 5.1 and iOS 13 for people with zero programming experience.,Udemy,2023,,,,,,,,,
+YML0701,Nireeksha N P,Associate Software Engineer,Mohammad Momshad Khan,Loganathan S,0.11,Bench,Backend,nireeksha.np@ymedialabs.com,Freshers (Campus),Freshers (Campus),NA,NA,,,,,,,,,,,,,,,,,
+YML0702,Karthik S L,Associate Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,0.11,Bench,Backend,karthik.sl@ymedialabs.com,"Node JS, Typescript, MongoDB, MySQL,NestJs","Python,Java",Competent,Beginner,AWS,,,NPTEL Java Certification,Technical,Basic coding skills in JAVA and Python,IIT Kharagpur,2020,No expiration,,,,,,,,
+YML0703,Hema H V,Associate Software Engineer,Mohammad Momshad Khan,Loganathan S,0.11,Bench,Backend,hema.hv@ymedialabs.com,Freshers (Campus),Freshers (Campus),NA,NA,,,,,,,,,,,,,,,,,
+YML0704,Nagarjuna Kumar K V,Senior Software Development Engineer in Test,Mohammad Momshad Khan,Loganathan S,7.2,Bench,Automation,nagarjuna.kumar@ymedialabs.com,Automation Testing[Selenium With Java],"Manual Testing,Core Java,API Basics",SME,Competent,"Appium,API Automation",,,,,,,,,,,,,,,,
+YML0705,Bandhan Roy,Software Engineer,Shubhang Krishnamurthy Vishwamitra,Aparna K,3.4,Sutter Health,Backend,bandhan.roy@ymedialabs.com,"Node JS, Typescript, MongoDB, Angular","React JS, Kafka, Vue, Postgres, MySQL, AWS Lambda",Proficient,Competent,"AWS, Devops, Machine Learning",,,,,,,,,,,,,,,,
+YML0708,G Dheeraj Krishna,Technical Project Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,12.7,"PWC,L'Oreal",Project Management,dheeraj.krishna@ymedialabs.com,Resigned,Resigned,,,,,,,,,,,,,,,,,,,
+YML0711,Shantanu Kumar Behera,Technical Project Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,11.3,Bench,Project Management,shantanu.behera@ymedialabs.com,"Project Management, Scrum Master, Servant Leadership, Agile Coaching/Mentoring, Project Monitoring and Controlling, Resource Management","Business Analysis, Product Management, Quality Assurance, Procurement Management, Communication Management, Program Management, Release Train Engineer, IT Service Management",,,,,,PMI-PMP,Non-Technical,Project Management Certification provided by PMI covering various aspects of managing projects.,Project Management Institute,Dec '2020,Dec '2023,Agile Scrum Master,Non-Technical,"Certification covers various aspects of Agile methodology, Scrum framework and Scrum Master role and responsibilities in the agile project",2019,EXIN,,SAFe Agilist 5.0 (Non-Tech.) by Scaled Agile in May 2022 which already expired. CSPO (Non-Tech.) by Scrum Alliance in Nov '2020 which already expired. ITIL V4 (Non-Tech.) by Axelos in Nov '2020. ,
+YML0712,Dimpy panwar,Program Manager,Shubhang Krishnamurthy Vishwamitra,Aparna K,14.7,Total Environment,Project Management,dimpy.kapoor@ymedialabs.com,"Program/Portfolio Management, Delivery Management, Stakeholder Management","Business analysis , pseudo Product manager",,,,SAFe lead agilist and SAFe certified scrum master,,SAFe lead agilist and SAFe certified scrum master,,,,,,,,,,,,,

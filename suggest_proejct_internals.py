@@ -148,6 +148,6 @@ def get_project_allocation_suggestion(skill_matrix_all_df_data, project_details_
     # response = llm_chain.invoke()
     return response
 
-
-if __name__ == "__main__":
-    main()
+#
+# if __name__ == "__main__":
+#     main()

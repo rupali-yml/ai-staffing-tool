@@ -5,22 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6410e7af-529e-4de9-a888-7d2ce19b7028" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/AIStaffAssistant.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/csv_data/Feedbacks 2-10.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/csv_data/Skill Matrix_All.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/csv_data/SkillMatrixDummy.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/csv_data/generate_dummy_project_details_csv_file" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/suggest_proejct_internals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/csv_text_db/5624fb0b-6244-4dba-9a10-9d699defc0aa/data_level0.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/csv_text_db/5624fb0b-6244-4dba-9a10-9d699defc0aa/header.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/csv_text_db/5624fb0b-6244-4dba-9a10-9d699defc0aa/index_metadata.pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/csv_text_db/5624fb0b-6244-4dba-9a10-9d699defc0aa/length.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/csv_text_db/5624fb0b-6244-4dba-9a10-9d699defc0aa/link_lists.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/csv_text_db/chroma.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/project_details_text_db/01acfeec-196d-418c-94b2-b029e48224ea/data_level0.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/project_details_text_db/01acfeec-196d-418c-94b2-b029e48224ea/header.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/project_details_text_db/01acfeec-196d-418c-94b2-b029e48224ea/length.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/project_details_text_db/01acfeec-196d-418c-94b2-b029e48224ea/link_lists.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/project_details_text_db/chroma.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/sentiment_text_db/89c1702b-d86d-4dcf-90fc-969330148c63/data_level0.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/sentiment_text_db/89c1702b-d86d-4dcf-90fc-969330148c63/header.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/sentiment_text_db/89c1702b-d86d-4dcf-90fc-969330148c63/length.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/sentiment_text_db/89c1702b-d86d-4dcf-90fc-969330148c63/link_lists.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/sentiment_text_db/chroma.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suggest_proejct_internals.py" beforeDir="false" afterPath="$PROJECT_DIR$/suggest_proejct_internals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +55,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/rupalipatel/PycharmProjects/AIStaffAssistant/data/csv_data"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/csv_data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/models" />
       <recent name="$PROJECT_DIR$/data/csv_data" />
@@ -104,16 +114,5 @@
       <updated>1708583728248</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

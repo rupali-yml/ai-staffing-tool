@@ -1,3 +1,5 @@
 .idea/
 secrets/
 models/
+__pycache__/
+db/

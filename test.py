@@ -127,5 +127,5 @@ def main():
     print(f"Suggestions are: \n {suggestions}")
 
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()

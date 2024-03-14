@@ -38,6 +38,8 @@ llm_prompt_template = """You are an HR in a medium sized company. You will be gi
 
   Replace the word "allocation percentage" of
   each individual with the appropriate "allocation" value from context.
+  
+  Return the output in json format.
 
   Example Answer:
       Project Name: Gen AI POC
@@ -72,6 +74,33 @@ llm_prompt_template = """You are an HR in a medium sized company. You will be gi
 
   \nAnswer:"""
 
+llm_prompt_template_recommend_employee = """You are an HR in a medium sized company. You will be given employee details,
+  project details and employee reviews in the context.
+
+  Your tasks will be to recommend another employee name for a given project.
+  You will be given the following details - Project Name, Project description, Duration,
+  Budget, Start Date and Platforms to be built, in the Question.
+
+  Your recommendations should align with the required skills for the project and reviews. For instance,
+  individuals proficient in front-end technologies could be matched with web-related tasks, while those skilled in
+  Java or NodeJS might be suitable for backend development. Similarly, those experienced in machine learning
+  could contribute to ML-related tasks.
+
+  You should calculate a matching score for each team member based on their skills and experience, aiming to
+  assign those with the highest compatibility to the project.
+
+  \nQuestion: {question}
+  \nContext: {context}
+
+  Answer should be in the following format or consists of these many details.
+
+  Example Answer Template:
+      Employee Name : Rupali
+      Tech Stack : Java, Node JS, ML
+      Feedback : Really awesome in everything.
+
+  \nAnswer:"""
+
 
 def format_docs(docs):
     return "\n\n".join(doc.page_content for doc in docs)
@@ -80,7 +109,6 @@ def format_docs(docs):
 def get_open_api_key():
     f = open('secrets/google_api_key.txt')
     api_key = f.read()
-    print(api_key)
     os.environ['GOOGLE_API_KEY'] = api_key
 
 
@@ -101,7 +129,7 @@ def allocate_staff(
     csv_loader = CSVLoader("./data/csv_data/generate_dummy_project_details_csv_file")
     project_details_document = csv_loader.load()
 
-    loader = PyPDFLoader("./data/csv_data/Feedbacks 2-10.pdf")
+    loader = PyPDFLoader("./data/csv_data/Feedbacks-version-1.4.pdf")
     feedback_review_document = loader.load()
 
     # Creating the vector stores
@@ -184,11 +212,128 @@ def allocate_staff(
     return response
 
 
+def replace_employee(
+        project_name: str,
+        project_description: str,
+        duration: str,
+        budget: str,
+        start_date: str,
+        platforms: str,
+        engineering_team: str,
+        tech_stack: str,
+        employee_name_to_replace_prompt: str
+):
+    get_open_api_key()
+    # Loading the files
+    csv_loader = CSVLoader("./data/csv_data/SkillMatrixDummy.csv")
+    skill_matrix_document = csv_loader.load()
+
+    csv_loader = CSVLoader("./data/csv_data/generate_dummy_project_details_csv_file")
+    project_details_document = csv_loader.load()
+
+    loader = PyPDFLoader("./data/csv_data/Feedbacks-version-1.4.pdf")
+    feedback_review_document = loader.load()
+
+    # Creating the vector stores
+    feedback_text_dir = "./db/feedback_text_db"
+    skill_matrix_text_dir = "./db/skill_matrix_csv_text_db"
+    project_details_text_dir = "./db/project_details_text_db"
+
+    embeddings = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
+
+    skill_matrix_vector_store = Chroma.from_documents(
+        documents=skill_matrix_document,
+        embedding=embeddings,
+        persist_directory=skill_matrix_text_dir
+    )
+    skill_matrix_vector_store.persist()
+    skill_matrix_vector_store_disk = Chroma(persist_directory=skill_matrix_text_dir, embedding_function=embeddings)
+    skill_matrix_retriever = skill_matrix_vector_store_disk.as_retriever(search_kwargs={"k": 1})
+
+    project_details_vector_store = Chroma.from_documents(
+        documents=project_details_document,
+        embedding=embeddings,
+        persist_directory=project_details_text_dir
+    )
+    project_details_vector_store_disk = Chroma(persist_directory=project_details_text_dir,
+                                               embedding_function=embeddings)
+    project_details_retriever = project_details_vector_store_disk.as_retriever(search_kwargs={"k": 1})
+
+    feedback_text_vector_store = Chroma.from_documents(
+        documents=feedback_review_document,
+        embedding=embeddings,
+        persist_directory=feedback_text_dir
+    )
+    feedback_text_vector_store_disk = Chroma(persist_directory=feedback_text_dir, embedding_function=embeddings)
+    feedback_text_retriever = feedback_text_vector_store_disk.as_retriever(search_kwargs={"k": 1})
+
+    # Merging the retriever
+    filter_ordered_cluster = EmbeddingsClusteringFilter(
+        embeddings=embeddings,
+        num_clusters=3,
+        num_closest=1,
+    )
+
+    merged_retriever = MergerRetriever(
+        retrievers=[skill_matrix_retriever, feedback_text_retriever, project_details_retriever])
+
+    pipeline = DocumentCompressorPipeline(transformers=[
+        filter_ordered_cluster,
+    ])
+    compression_retriever_reordered = ContextualCompressionRetriever(
+        base_compressor=pipeline, base_retriever=merged_retriever
+    )
+
+    # Loading the llm
+    llm = ChatGoogleGenerativeAI(model="gemini-pro",
+                                 temperature=0.1, top_p=0.85)
+
+    llm_prompt = PromptTemplate.from_template(llm_prompt_template_recommend_employee)
+
+    rag_chain_recommend_employee = (
+            {"context": compression_retriever_reordered | format_docs, "question": RunnablePassthrough()}
+            | llm_prompt
+            | llm
+            | StrOutputParser()
+    )
+
+    # Invoking the llm
+    response = rag_chain_recommend_employee.invoke(f"""
+            Using the given context and data create an engineering team structure with their names and allocation percentage and the relevant tech stacks.
+            Engineering team structure consists of the name, title of engineer and percentage of allocation of engineer into the project. Make sure you find the right person for the right role.
+            Project Name: {project_name}
+            Project Description: {project_description}
+            Duration: {duration}
+            Budget: {budget}
+            Start Date: {start_date}
+            Platforms to be built:
+              {platforms}
+            Engineering Team: {engineering_team}
+            Tech Stacks: {tech_stack}
+            
+            {employee_name_to_replace_prompt} 
+            recommend somebody else in the team, give answer in the desired format. Also attach the manager rating of the employee.
+            Give the response in json format.
+        """)
+
+    return response
+
+
 @app.post('/assign_staff_to_a_project')
 async def predict(project_name, project_description, duration, budget, start_date, platforms,
                   skills_preferred) -> Any:
-    print("I am here")
     return allocate_staff(project_name, project_description, duration, budget, start_date, platforms, skills_preferred)
+
+
+@app.post('/replace_employee_in_a_project')
+async def predict(project_name, project_description, duration, budget, start_date, platforms,
+                  engineering_team,
+                  tech_stack,
+                  employee_name_to_replace_prompt) -> Any:
+    return replace_employee(project_name, project_description, duration, budget, start_date, platforms,
+                            engineering_team,
+                            tech_stack,
+                            employee_name_to_replace_prompt)
 
 
 @app.get("/")
